@@ -261,19 +261,9 @@ command_install() {
 		# and further post-installation configuration.
 		source "${distro_plugin_script}"
 
-		local integrity_sha256
 		local download_url
 		if declare -f -F get_download_url >/dev/null 2>&1; then
-			integrity_sha256=$(get_download_url | cut -d'|' -f1)
 			download_url=$(get_download_url | cut -d'|' -f2-)
-
-			# If this is not a HEX string, then we probably got an URL instead of
-			# SHA-256. In this case treat that integrity checking was disabled.
-			if ! grep -qP '^[0-9a-fA-F]+$' <<< "${integrity_sha256}"; then
-				msg "${BLUE}[${RED}!${BLUE}] ${CYAN}Got malformed SHA-256 string, considering it as URL.${RST}"
-				download_url="$integrity_sha256"
-				integrity_sha256=""
-			fi
 		else
 			msg
 			msg "${BRED}Error: get_download_url() is not defined in ${distro_plugin_script}${RST}"
@@ -314,20 +304,6 @@ command_install() {
 			mv -f "${DOWNLOAD_CACHE_DIR}/${tarball_name}.tmp" "${DOWNLOAD_CACHE_DIR}/${tarball_name}"
 		else
 			msg "${BLUE}[${GREEN}*${BLUE}] ${CYAN}Using cached rootfs tarball...${RST}"
-		fi
-
-		if [ -n "${integrity_sha256}" ]; then
-			msg "${BLUE}[${GREEN}*${BLUE}] ${CYAN}Checking integrity, please wait...${RST}"
-			local actual_sha256
-			actual_sha256=$(sha256sum "${DOWNLOAD_CACHE_DIR}/${tarball_name}" | awk '{ print $1}')
-
-			if [ "${integrity_sha256}" != "${actual_sha256}" ]; then
-				msg "${BLUE}[${RED}!${BLUE}] ${CYAN}Integrity checking failed. Try to redo installation again.${RST}"
-				rm -f "${DOWNLOAD_CACHE_DIR}/${tarball_name}"
-				return 1
-			fi
-		else
-			msg "${BLUE}[${RED}!${BLUE}] ${CYAN}Integrity checking of downloaded rootfs has been disabled.${RST}"
 		fi
 
 		msg "${BLUE}[${GREEN}*${BLUE}] ${CYAN}Extracting rootfs, please wait...${RST}"
