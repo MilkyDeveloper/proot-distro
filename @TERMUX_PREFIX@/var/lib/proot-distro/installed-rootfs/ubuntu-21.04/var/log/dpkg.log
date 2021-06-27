@@ -1,0 +1,2257 @@
+2021-06-25 19:32:06 startup archives install
+2021-06-25 19:32:06 install base-passwd:armhf <none> 3.5.49
+2021-06-25 19:32:06 status half-installed base-passwd:armhf 3.5.49
+2021-06-25 19:32:06 status unpacked base-passwd:armhf 3.5.49
+2021-06-25 19:32:06 configure base-passwd:armhf 3.5.49 3.5.49
+2021-06-25 19:32:06 status half-configured base-passwd:armhf 3.5.49
+2021-06-25 19:32:06 status installed base-passwd:armhf 3.5.49
+2021-06-25 19:32:06 startup archives install
+2021-06-25 19:32:06 install base-files:armhf <none> 11ubuntu19
+2021-06-25 19:32:06 status half-installed base-files:armhf 11ubuntu19
+2021-06-25 19:32:06 status unpacked base-files:armhf 11ubuntu19
+2021-06-25 19:32:06 configure base-files:armhf 11ubuntu19 11ubuntu19
+2021-06-25 19:32:06 status half-configured base-files:armhf 11ubuntu19
+2021-06-25 19:32:06 status installed base-files:armhf 11ubuntu19
+2021-06-25 19:32:06 startup archives install
+2021-06-25 19:32:06 upgrade dpkg 1.20.9ubuntu1 1.20.9ubuntu1
+2021-06-25 19:32:06 status half-configured dpkg 1.20.9ubuntu1
+2021-06-25 19:32:06 status unpacked dpkg 1.20.9ubuntu1
+2021-06-25 19:32:06 status half-installed dpkg 1.20.9ubuntu1
+2021-06-25 19:32:07 status unpacked dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:32:07 configure dpkg:armhf 1.20.9ubuntu1 1.20.9ubuntu1
+2021-06-25 19:32:07 status half-configured dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:32:07 status installed dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:32:07 startup archives install
+2021-06-25 19:32:07 install libc6:armhf <none> 2.33-0ubuntu5
+2021-06-25 19:32:07 status half-installed libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:32:08 status unpacked libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:32:08 configure libc6:armhf 2.33-0ubuntu5 2.33-0ubuntu5
+2021-06-25 19:32:08 status half-configured libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:32:08 status installed libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:32:08 startup archives install
+2021-06-25 19:32:08 install perl-base:armhf <none> 5.32.1-3ubuntu2
+2021-06-25 19:32:08 status half-installed perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:32:09 status unpacked perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:32:09 configure perl-base:armhf 5.32.1-3ubuntu2 5.32.1-3ubuntu2
+2021-06-25 19:32:09 status half-configured perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:32:09 status installed perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:32:09 startup archives install
+2021-06-25 19:32:09 install mawk:armhf <none> 1.3.4.20200120-2
+2021-06-25 19:32:09 status half-installed mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:32:09 status unpacked mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:32:09 configure mawk:armhf 1.3.4.20200120-2 1.3.4.20200120-2
+2021-06-25 19:32:09 status half-configured mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:32:09 status installed mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:32:09 startup archives unpack
+2021-06-25 19:32:09 upgrade base-files:armhf 11ubuntu19 11ubuntu19
+2021-06-25 19:32:09 status half-configured base-files:armhf 11ubuntu19
+2021-06-25 19:32:09 status unpacked base-files:armhf 11ubuntu19
+2021-06-25 19:32:09 status half-installed base-files:armhf 11ubuntu19
+2021-06-25 19:32:09 status unpacked base-files:armhf 11ubuntu19
+2021-06-25 19:32:09 upgrade base-passwd:armhf 3.5.49 3.5.49
+2021-06-25 19:32:09 status half-configured base-passwd:armhf 3.5.49
+2021-06-25 19:32:09 status unpacked base-passwd:armhf 3.5.49
+2021-06-25 19:32:09 status half-installed base-passwd:armhf 3.5.49
+2021-06-25 19:32:09 status unpacked base-passwd:armhf 3.5.49
+2021-06-25 19:32:09 install bash:armhf <none> 5.1-2ubuntu1
+2021-06-25 19:32:09 status half-installed bash:armhf 5.1-2ubuntu1
+2021-06-25 19:32:09 status unpacked bash:armhf 5.1-2ubuntu1
+2021-06-25 19:32:09 install bsdutils:armhf <none> 1:2.36.1-7ubuntu2
+2021-06-25 19:32:09 status half-installed bsdutils:armhf 1:2.36.1-7ubuntu2
+2021-06-25 19:32:09 status unpacked bsdutils:armhf 1:2.36.1-7ubuntu2
+2021-06-25 19:32:09 install coreutils:armhf <none> 8.32-4ubuntu2
+2021-06-25 19:32:09 status half-installed coreutils:armhf 8.32-4ubuntu2
+2021-06-25 19:32:10 status unpacked coreutils:armhf 8.32-4ubuntu2
+2021-06-25 19:32:10 install dash:armhf <none> 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1
+2021-06-25 19:32:10 status half-installed dash:armhf 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1
+2021-06-25 19:32:10 status unpacked dash:armhf 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1
+2021-06-25 19:32:10 install debconf:all <none> 1.5.74
+2021-06-25 19:32:10 status half-installed debconf:all 1.5.74
+2021-06-25 19:32:10 status unpacked debconf:all 1.5.74
+2021-06-25 19:32:10 install debianutils:armhf <none> 4.11.2
+2021-06-25 19:32:10 status half-installed debianutils:armhf 4.11.2
+2021-06-25 19:32:10 status unpacked debianutils:armhf 4.11.2
+2021-06-25 19:32:10 install diffutils:armhf <none> 1:3.7-3ubuntu1
+2021-06-25 19:32:10 status half-installed diffutils:armhf 1:3.7-3ubuntu1
+2021-06-25 19:32:10 status unpacked diffutils:armhf 1:3.7-3ubuntu1
+2021-06-25 19:32:10 upgrade dpkg:armhf 1.20.9ubuntu1 1.20.9ubuntu1
+2021-06-25 19:32:10 status half-configured dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:32:10 status unpacked dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:32:10 status half-installed dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:32:10 status unpacked dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:32:11 install e2fsprogs:armhf <none> 1.45.7-1ubuntu2
+2021-06-25 19:32:11 status half-installed e2fsprogs:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:11 status unpacked e2fsprogs:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:11 install findutils:armhf <none> 4.8.0-1ubuntu1
+2021-06-25 19:32:11 status half-installed findutils:armhf 4.8.0-1ubuntu1
+2021-06-25 19:32:11 status unpacked findutils:armhf 4.8.0-1ubuntu1
+2021-06-25 19:32:11 install gcc-11-base:armhf <none> 11-20210417-1ubuntu1
+2021-06-25 19:32:11 status half-installed gcc-11-base:armhf 11-20210417-1ubuntu1
+2021-06-25 19:32:11 status unpacked gcc-11-base:armhf 11-20210417-1ubuntu1
+2021-06-25 19:32:11 install grep:armhf <none> 3.6-1
+2021-06-25 19:32:11 status half-installed grep:armhf 3.6-1
+2021-06-25 19:32:11 status unpacked grep:armhf 3.6-1
+2021-06-25 19:32:11 install gzip:armhf <none> 1.10-2ubuntu3
+2021-06-25 19:32:11 status half-installed gzip:armhf 1.10-2ubuntu3
+2021-06-25 19:32:11 status unpacked gzip:armhf 1.10-2ubuntu3
+2021-06-25 19:32:11 install hostname:armhf <none> 3.23
+2021-06-25 19:32:11 status half-installed hostname:armhf 3.23
+2021-06-25 19:32:11 status unpacked hostname:armhf 3.23
+2021-06-25 19:32:11 install init-system-helpers:all <none> 1.60
+2021-06-25 19:32:11 status half-installed init-system-helpers:all 1.60
+2021-06-25 19:32:11 status unpacked init-system-helpers:all 1.60
+2021-06-25 19:32:11 install libacl1:armhf <none> 2.2.53-10ubuntu1
+2021-06-25 19:32:11 status half-installed libacl1:armhf 2.2.53-10ubuntu1
+2021-06-25 19:32:11 status unpacked libacl1:armhf 2.2.53-10ubuntu1
+2021-06-25 19:32:11 install libattr1:armhf <none> 1:2.4.48-6build1
+2021-06-25 19:32:11 status half-installed libattr1:armhf 1:2.4.48-6build1
+2021-06-25 19:32:11 status unpacked libattr1:armhf 1:2.4.48-6build1
+2021-06-25 19:32:11 install libaudit-common:all <none> 1:3.0-2ubuntu1
+2021-06-25 19:32:11 status half-installed libaudit-common:all 1:3.0-2ubuntu1
+2021-06-25 19:32:11 status unpacked libaudit-common:all 1:3.0-2ubuntu1
+2021-06-25 19:32:11 install libaudit1:armhf <none> 1:3.0-2ubuntu1
+2021-06-25 19:32:11 status half-installed libaudit1:armhf 1:3.0-2ubuntu1
+2021-06-25 19:32:11 status unpacked libaudit1:armhf 1:3.0-2ubuntu1
+2021-06-25 19:32:11 install libblkid1:armhf <none> 2.36.1-7ubuntu2
+2021-06-25 19:32:11 status half-installed libblkid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:11 status unpacked libblkid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:11 install libbz2-1.0:armhf <none> 1.0.8-4ubuntu3
+2021-06-25 19:32:11 status half-installed libbz2-1.0:armhf 1.0.8-4ubuntu3
+2021-06-25 19:32:11 status unpacked libbz2-1.0:armhf 1.0.8-4ubuntu3
+2021-06-25 19:32:11 install libc-bin:armhf <none> 2.33-0ubuntu5
+2021-06-25 19:32:11 status half-installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:11 status unpacked libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:11 upgrade libc6:armhf 2.33-0ubuntu5 2.33-0ubuntu5
+2021-06-25 19:32:11 status half-configured libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:32:11 status unpacked libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:32:11 status half-installed libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:32:12 status unpacked libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:32:12 install libcap-ng0:armhf <none> 0.7.9-2.2build1
+2021-06-25 19:32:12 status half-installed libcap-ng0:armhf 0.7.9-2.2build1
+2021-06-25 19:32:12 status unpacked libcap-ng0:armhf 0.7.9-2.2build1
+2021-06-25 19:32:12 install libcap2:armhf <none> 1:2.44-1build1
+2021-06-25 19:32:12 status half-installed libcap2:armhf 1:2.44-1build1
+2021-06-25 19:32:12 status unpacked libcap2:armhf 1:2.44-1build1
+2021-06-25 19:32:12 install libcom-err2:armhf <none> 1.45.7-1ubuntu2
+2021-06-25 19:32:12 status half-installed libcom-err2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:12 status unpacked libcom-err2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:12 install libcrypt1:armhf <none> 1:4.4.17-1ubuntu3
+2021-06-25 19:32:12 status half-installed libcrypt1:armhf 1:4.4.17-1ubuntu3
+2021-06-25 19:32:12 status unpacked libcrypt1:armhf 1:4.4.17-1ubuntu3
+2021-06-25 19:32:13 install libdb5.3:armhf <none> 5.3.28+dfsg1-0.6ubuntu4
+2021-06-25 19:32:13 status half-installed libdb5.3:armhf 5.3.28+dfsg1-0.6ubuntu4
+2021-06-25 19:32:13 status unpacked libdb5.3:armhf 5.3.28+dfsg1-0.6ubuntu4
+2021-06-25 19:32:13 install libdebconfclient0:armhf <none> 0.256ubuntu3
+2021-06-25 19:32:13 status half-installed libdebconfclient0:armhf 0.256ubuntu3
+2021-06-25 19:32:13 status unpacked libdebconfclient0:armhf 0.256ubuntu3
+2021-06-25 19:32:13 install libext2fs2:armhf <none> 1.45.7-1ubuntu2
+2021-06-25 19:32:13 status half-installed libext2fs2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:13 status unpacked libext2fs2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:13 install libgcc-s1:armhf <none> 11-20210417-1ubuntu1
+2021-06-25 19:32:13 status half-installed libgcc-s1:armhf 11-20210417-1ubuntu1
+2021-06-25 19:32:13 status unpacked libgcc-s1:armhf 11-20210417-1ubuntu1
+2021-06-25 19:32:13 install libgcrypt20:armhf <none> 1.8.7-2ubuntu2
+2021-06-25 19:32:13 status half-installed libgcrypt20:armhf 1.8.7-2ubuntu2
+2021-06-25 19:32:13 status unpacked libgcrypt20:armhf 1.8.7-2ubuntu2
+2021-06-25 19:32:13 install libgmp10:armhf <none> 2:6.2.1+dfsg-1ubuntu2
+2021-06-25 19:32:13 status half-installed libgmp10:armhf 2:6.2.1+dfsg-1ubuntu2
+2021-06-25 19:32:13 status unpacked libgmp10:armhf 2:6.2.1+dfsg-1ubuntu2
+2021-06-25 19:32:13 install libgpg-error0:armhf <none> 1.38-2build1
+2021-06-25 19:32:13 status half-installed libgpg-error0:armhf 1.38-2build1
+2021-06-25 19:32:13 status unpacked libgpg-error0:armhf 1.38-2build1
+2021-06-25 19:32:13 install liblz4-1:armhf <none> 1.9.3-1build1
+2021-06-25 19:32:13 status half-installed liblz4-1:armhf 1.9.3-1build1
+2021-06-25 19:32:13 status unpacked liblz4-1:armhf 1.9.3-1build1
+2021-06-25 19:32:13 install liblzma5:armhf <none> 5.2.5-1.0build2
+2021-06-25 19:32:13 status half-installed liblzma5:armhf 5.2.5-1.0build2
+2021-06-25 19:32:13 status unpacked liblzma5:armhf 5.2.5-1.0build2
+2021-06-25 19:32:13 install libmount1:armhf <none> 2.36.1-7ubuntu2
+2021-06-25 19:32:13 status half-installed libmount1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:13 status unpacked libmount1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:13 install libncurses6:armhf <none> 6.2+20201114-2build1
+2021-06-25 19:32:13 status half-installed libncurses6:armhf 6.2+20201114-2build1
+2021-06-25 19:32:13 status unpacked libncurses6:armhf 6.2+20201114-2build1
+2021-06-25 19:32:13 install libncursesw6:armhf <none> 6.2+20201114-2build1
+2021-06-25 19:32:13 status half-installed libncursesw6:armhf 6.2+20201114-2build1
+2021-06-25 19:32:13 status unpacked libncursesw6:armhf 6.2+20201114-2build1
+2021-06-25 19:32:13 install libpam-modules:armhf <none> 1.3.1-5ubuntu6
+2021-06-25 19:32:13 status half-installed libpam-modules:armhf 1.3.1-5ubuntu6
+2021-06-25 19:32:14 status unpacked libpam-modules:armhf 1.3.1-5ubuntu6
+2021-06-25 19:32:14 install libpam-modules-bin:armhf <none> 1.3.1-5ubuntu6
+2021-06-25 19:32:14 status half-installed libpam-modules-bin:armhf 1.3.1-5ubuntu6
+2021-06-25 19:32:14 status unpacked libpam-modules-bin:armhf 1.3.1-5ubuntu6
+2021-06-25 19:32:14 install libpam-runtime:all <none> 1.3.1-5ubuntu6
+2021-06-25 19:32:14 status half-installed libpam-runtime:all 1.3.1-5ubuntu6
+2021-06-25 19:32:14 status unpacked libpam-runtime:all 1.3.1-5ubuntu6
+2021-06-25 19:32:14 install libpam0g:armhf <none> 1.3.1-5ubuntu6
+2021-06-25 19:32:14 status half-installed libpam0g:armhf 1.3.1-5ubuntu6
+2021-06-25 19:32:14 status unpacked libpam0g:armhf 1.3.1-5ubuntu6
+2021-06-25 19:32:14 install libpcre2-8-0:armhf <none> 10.36-2ubuntu5
+2021-06-25 19:32:14 status half-installed libpcre2-8-0:armhf 10.36-2ubuntu5
+2021-06-25 19:32:14 status unpacked libpcre2-8-0:armhf 10.36-2ubuntu5
+2021-06-25 19:32:14 install libpcre3:armhf <none> 2:8.39-13build3
+2021-06-25 19:32:14 status half-installed libpcre3:armhf 2:8.39-13build3
+2021-06-25 19:32:14 status unpacked libpcre3:armhf 2:8.39-13build3
+2021-06-25 19:32:14 install libprocps8:armhf <none> 2:3.3.16-5ubuntu3
+2021-06-25 19:32:14 status half-installed libprocps8:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:32:14 status unpacked libprocps8:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:32:14 install libselinux1:armhf <none> 3.1-3build1
+2021-06-25 19:32:14 status half-installed libselinux1:armhf 3.1-3build1
+2021-06-25 19:32:14 status unpacked libselinux1:armhf 3.1-3build1
+2021-06-25 19:32:14 install libsemanage-common:all <none> 3.1-1ubuntu1
+2021-06-25 19:32:14 status half-installed libsemanage-common:all 3.1-1ubuntu1
+2021-06-25 19:32:14 status unpacked libsemanage-common:all 3.1-1ubuntu1
+2021-06-25 19:32:14 install libsemanage1:armhf <none> 3.1-1ubuntu1
+2021-06-25 19:32:14 status half-installed libsemanage1:armhf 3.1-1ubuntu1
+2021-06-25 19:32:14 status unpacked libsemanage1:armhf 3.1-1ubuntu1
+2021-06-25 19:32:14 install libsepol1:armhf <none> 3.1-1ubuntu1
+2021-06-25 19:32:14 status half-installed libsepol1:armhf 3.1-1ubuntu1
+2021-06-25 19:32:14 status unpacked libsepol1:armhf 3.1-1ubuntu1
+2021-06-25 19:32:14 install libsmartcols1:armhf <none> 2.36.1-7ubuntu2
+2021-06-25 19:32:14 status half-installed libsmartcols1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:14 status unpacked libsmartcols1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:14 install libss2:armhf <none> 1.45.7-1ubuntu2
+2021-06-25 19:32:14 status half-installed libss2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:14 status unpacked libss2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:14 install libsystemd0:armhf <none> 247.3-3ubuntu3
+2021-06-25 19:32:14 status half-installed libsystemd0:armhf 247.3-3ubuntu3
+2021-06-25 19:32:14 status unpacked libsystemd0:armhf 247.3-3ubuntu3
+2021-06-25 19:32:14 install libtinfo6:armhf <none> 6.2+20201114-2build1
+2021-06-25 19:32:14 status half-installed libtinfo6:armhf 6.2+20201114-2build1
+2021-06-25 19:32:14 status unpacked libtinfo6:armhf 6.2+20201114-2build1
+2021-06-25 19:32:14 install libudev1:armhf <none> 247.3-3ubuntu3
+2021-06-25 19:32:14 status half-installed libudev1:armhf 247.3-3ubuntu3
+2021-06-25 19:32:14 status unpacked libudev1:armhf 247.3-3ubuntu3
+2021-06-25 19:32:14 install libuuid1:armhf <none> 2.36.1-7ubuntu2
+2021-06-25 19:32:14 status half-installed libuuid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:14 status unpacked libuuid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:15 install libzstd1:armhf <none> 1.4.8+dfsg-2build2
+2021-06-25 19:32:15 status half-installed libzstd1:armhf 1.4.8+dfsg-2build2
+2021-06-25 19:32:15 status unpacked libzstd1:armhf 1.4.8+dfsg-2build2
+2021-06-25 19:32:15 install login:armhf <none> 1:4.8.1-1ubuntu8
+2021-06-25 19:32:15 status half-installed login:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:32:15 status unpacked login:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:32:15 install logsave:armhf <none> 1.45.7-1ubuntu2
+2021-06-25 19:32:15 status half-installed logsave:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:15 status unpacked logsave:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:15 install lsb-base:all <none> 11.1.0ubuntu2
+2021-06-25 19:32:15 status half-installed lsb-base:all 11.1.0ubuntu2
+2021-06-25 19:32:15 status unpacked lsb-base:all 11.1.0ubuntu2
+2021-06-25 19:32:15 upgrade mawk:armhf 1.3.4.20200120-2 1.3.4.20200120-2
+2021-06-25 19:32:15 status half-configured mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:32:15 status unpacked mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:32:15 status half-installed mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:32:15 status unpacked mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:32:15 install mount:armhf <none> 2.36.1-7ubuntu2
+2021-06-25 19:32:15 status half-installed mount:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:15 status unpacked mount:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:15 install ncurses-base:all <none> 6.2+20201114-2build1
+2021-06-25 19:32:15 status half-installed ncurses-base:all 6.2+20201114-2build1
+2021-06-25 19:32:15 status unpacked ncurses-base:all 6.2+20201114-2build1
+2021-06-25 19:32:15 install ncurses-bin:armhf <none> 6.2+20201114-2build1
+2021-06-25 19:32:15 status half-installed ncurses-bin:armhf 6.2+20201114-2build1
+2021-06-25 19:32:15 status unpacked ncurses-bin:armhf 6.2+20201114-2build1
+2021-06-25 19:32:15 install passwd:armhf <none> 1:4.8.1-1ubuntu8
+2021-06-25 19:32:15 status half-installed passwd:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:32:15 status unpacked passwd:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:32:15 upgrade perl-base:armhf 5.32.1-3ubuntu2 5.32.1-3ubuntu2
+2021-06-25 19:32:15 status half-configured perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:32:15 status unpacked perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:32:15 status half-installed perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:32:16 status unpacked perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:32:16 install procps:armhf <none> 2:3.3.16-5ubuntu3
+2021-06-25 19:32:16 status half-installed procps:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:32:16 status unpacked procps:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:32:16 install sed:armhf <none> 4.7-1ubuntu1
+2021-06-25 19:32:16 status half-installed sed:armhf 4.7-1ubuntu1
+2021-06-25 19:32:16 status unpacked sed:armhf 4.7-1ubuntu1
+2021-06-25 19:32:16 install sensible-utils:all <none> 0.0.14
+2021-06-25 19:32:16 status half-installed sensible-utils:all 0.0.14
+2021-06-25 19:32:17 status unpacked sensible-utils:all 0.0.14
+2021-06-25 19:32:17 install sysvinit-utils:armhf <none> 2.96-6ubuntu1
+2021-06-25 19:32:17 status half-installed sysvinit-utils:armhf 2.96-6ubuntu1
+2021-06-25 19:32:17 status unpacked sysvinit-utils:armhf 2.96-6ubuntu1
+2021-06-25 19:32:17 install tar:armhf <none> 1.34+dfsg-1build1
+2021-06-25 19:32:17 status half-installed tar:armhf 1.34+dfsg-1build1
+2021-06-25 19:32:17 status unpacked tar:armhf 1.34+dfsg-1build1
+2021-06-25 19:32:17 install usrmerge:all <none> 24ubuntu3
+2021-06-25 19:32:17 status half-installed usrmerge:all 24ubuntu3
+2021-06-25 19:32:17 status unpacked usrmerge:all 24ubuntu3
+2021-06-25 19:32:17 install util-linux:armhf <none> 2.36.1-7ubuntu2
+2021-06-25 19:32:17 status half-installed util-linux:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:17 status unpacked util-linux:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:17 install zlib1g:armhf <none> 1:1.2.11.dfsg-2ubuntu6
+2021-06-25 19:32:17 status half-installed zlib1g:armhf 1:1.2.11.dfsg-2ubuntu6
+2021-06-25 19:32:17 status unpacked zlib1g:armhf 1:1.2.11.dfsg-2ubuntu6
+2021-06-25 19:32:17 startup packages configure
+2021-06-25 19:32:17 configure gcc-11-base:armhf 11-20210417-1ubuntu1 <none>
+2021-06-25 19:32:17 status unpacked gcc-11-base:armhf 11-20210417-1ubuntu1
+2021-06-25 19:32:17 status half-configured gcc-11-base:armhf 11-20210417-1ubuntu1
+2021-06-25 19:32:17 status installed gcc-11-base:armhf 11-20210417-1ubuntu1
+2021-06-25 19:32:17 configure lsb-base:all 11.1.0ubuntu2 <none>
+2021-06-25 19:32:17 status unpacked lsb-base:all 11.1.0ubuntu2
+2021-06-25 19:32:17 status half-configured lsb-base:all 11.1.0ubuntu2
+2021-06-25 19:32:17 status installed lsb-base:all 11.1.0ubuntu2
+2021-06-25 19:32:17 configure libaudit-common:all 1:3.0-2ubuntu1 <none>
+2021-06-25 19:32:17 status unpacked libaudit-common:all 1:3.0-2ubuntu1
+2021-06-25 19:32:17 status half-configured libaudit-common:all 1:3.0-2ubuntu1
+2021-06-25 19:32:17 status installed libaudit-common:all 1:3.0-2ubuntu1
+2021-06-25 19:32:17 configure libsemanage-common:all 3.1-1ubuntu1 <none>
+2021-06-25 19:32:17 status unpacked libsemanage-common:all 3.1-1ubuntu1
+2021-06-25 19:32:17 status half-configured libsemanage-common:all 3.1-1ubuntu1
+2021-06-25 19:32:17 status installed libsemanage-common:all 3.1-1ubuntu1
+2021-06-25 19:32:17 configure ncurses-base:all 6.2+20201114-2build1 <none>
+2021-06-25 19:32:17 status unpacked ncurses-base:all 6.2+20201114-2build1
+2021-06-25 19:32:17 status half-configured ncurses-base:all 6.2+20201114-2build1
+2021-06-25 19:32:17 status installed ncurses-base:all 6.2+20201114-2build1
+2021-06-25 19:32:17 configure sensible-utils:all 0.0.14 <none>
+2021-06-25 19:32:17 status unpacked sensible-utils:all 0.0.14
+2021-06-25 19:32:17 status half-configured sensible-utils:all 0.0.14
+2021-06-25 19:32:17 status installed sensible-utils:all 0.0.14
+2021-06-25 19:32:17 configure libcrypt1:armhf 1:4.4.17-1ubuntu3 <none>
+2021-06-25 19:32:17 status unpacked libcrypt1:armhf 1:4.4.17-1ubuntu3
+2021-06-25 19:32:17 status half-configured libcrypt1:armhf 1:4.4.17-1ubuntu3
+2021-06-25 19:32:17 status installed libcrypt1:armhf 1:4.4.17-1ubuntu3
+2021-06-25 19:32:17 configure libgcc-s1:armhf 11-20210417-1ubuntu1 <none>
+2021-06-25 19:32:17 status unpacked libgcc-s1:armhf 11-20210417-1ubuntu1
+2021-06-25 19:32:17 status half-configured libgcc-s1:armhf 11-20210417-1ubuntu1
+2021-06-25 19:32:17 status installed libgcc-s1:armhf 11-20210417-1ubuntu1
+2021-06-25 19:32:17 configure libc6:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:32:17 status unpacked libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:32:17 status half-configured libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:32:18 status installed libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:32:18 configure libudev1:armhf 247.3-3ubuntu3 <none>
+2021-06-25 19:32:18 status unpacked libudev1:armhf 247.3-3ubuntu3
+2021-06-25 19:32:18 status half-configured libudev1:armhf 247.3-3ubuntu3
+2021-06-25 19:32:18 status installed libudev1:armhf 247.3-3ubuntu3
+2021-06-25 19:32:18 configure libsepol1:armhf 3.1-1ubuntu1 <none>
+2021-06-25 19:32:18 status unpacked libsepol1:armhf 3.1-1ubuntu1
+2021-06-25 19:32:18 status half-configured libsepol1:armhf 3.1-1ubuntu1
+2021-06-25 19:32:18 status installed libsepol1:armhf 3.1-1ubuntu1
+2021-06-25 19:32:18 configure libattr1:armhf 1:2.4.48-6build1 <none>
+2021-06-25 19:32:18 status unpacked libattr1:armhf 1:2.4.48-6build1
+2021-06-25 19:32:18 status half-configured libattr1:armhf 1:2.4.48-6build1
+2021-06-25 19:32:18 status installed libattr1:armhf 1:2.4.48-6build1
+2021-06-25 19:32:18 configure sysvinit-utils:armhf 2.96-6ubuntu1 <none>
+2021-06-25 19:32:18 status unpacked sysvinit-utils:armhf 2.96-6ubuntu1
+2021-06-25 19:32:18 status half-configured sysvinit-utils:armhf 2.96-6ubuntu1
+2021-06-25 19:32:18 status installed sysvinit-utils:armhf 2.96-6ubuntu1
+2021-06-25 19:32:18 configure debianutils:armhf 4.11.2 <none>
+2021-06-25 19:32:18 status unpacked debianutils:armhf 4.11.2
+2021-06-25 19:32:18 status half-configured debianutils:armhf 4.11.2
+2021-06-25 19:32:18 status installed debianutils:armhf 4.11.2
+2021-06-25 19:32:18 configure mawk:armhf 1.3.4.20200120-2 <none>
+2021-06-25 19:32:18 status unpacked mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:32:18 status half-configured mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:32:18 status installed mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:32:18 configure libdebconfclient0:armhf 0.256ubuntu3 <none>
+2021-06-25 19:32:18 status unpacked libdebconfclient0:armhf 0.256ubuntu3
+2021-06-25 19:32:18 status half-configured libdebconfclient0:armhf 0.256ubuntu3
+2021-06-25 19:32:18 status installed libdebconfclient0:armhf 0.256ubuntu3
+2021-06-25 19:32:18 configure base-files:armhf 11ubuntu19 <none>
+2021-06-25 19:32:18 status unpacked base-files:armhf 11ubuntu19
+2021-06-25 19:32:18 status half-configured base-files:armhf 11ubuntu19
+2021-06-25 19:32:18 status installed base-files:armhf 11ubuntu19
+2021-06-25 19:32:18 configure libbz2-1.0:armhf 1.0.8-4ubuntu3 <none>
+2021-06-25 19:32:18 status unpacked libbz2-1.0:armhf 1.0.8-4ubuntu3
+2021-06-25 19:32:18 status half-configured libbz2-1.0:armhf 1.0.8-4ubuntu3
+2021-06-25 19:32:18 status installed libbz2-1.0:armhf 1.0.8-4ubuntu3
+2021-06-25 19:32:18 configure base-passwd:armhf 3.5.49 <none>
+2021-06-25 19:32:18 status unpacked base-passwd:armhf 3.5.49
+2021-06-25 19:32:18 status half-configured base-passwd:armhf 3.5.49
+2021-06-25 19:32:18 status installed base-passwd:armhf 3.5.49
+2021-06-25 19:32:18 configure libdb5.3:armhf 5.3.28+dfsg1-0.6ubuntu4 <none>
+2021-06-25 19:32:18 status unpacked libdb5.3:armhf 5.3.28+dfsg1-0.6ubuntu4
+2021-06-25 19:32:18 status half-configured libdb5.3:armhf 5.3.28+dfsg1-0.6ubuntu4
+2021-06-25 19:32:18 status installed libdb5.3:armhf 5.3.28+dfsg1-0.6ubuntu4
+2021-06-25 19:32:18 configure libblkid1:armhf 2.36.1-7ubuntu2 <none>
+2021-06-25 19:32:18 status unpacked libblkid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:18 status half-configured libblkid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:18 status installed libblkid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:18 configure libtinfo6:armhf 6.2+20201114-2build1 <none>
+2021-06-25 19:32:18 status unpacked libtinfo6:armhf 6.2+20201114-2build1
+2021-06-25 19:32:18 status half-configured libtinfo6:armhf 6.2+20201114-2build1
+2021-06-25 19:32:18 status installed libtinfo6:armhf 6.2+20201114-2build1
+2021-06-25 19:32:18 configure bash:armhf 5.1-2ubuntu1 <none>
+2021-06-25 19:32:18 status unpacked bash:armhf 5.1-2ubuntu1
+2021-06-25 19:32:18 status half-configured bash:armhf 5.1-2ubuntu1
+2021-06-25 19:32:18 status installed bash:armhf 5.1-2ubuntu1
+2021-06-25 19:32:18 configure libzstd1:armhf 1.4.8+dfsg-2build2 <none>
+2021-06-25 19:32:18 status unpacked libzstd1:armhf 1.4.8+dfsg-2build2
+2021-06-25 19:32:18 status half-configured libzstd1:armhf 1.4.8+dfsg-2build2
+2021-06-25 19:32:18 status installed libzstd1:armhf 1.4.8+dfsg-2build2
+2021-06-25 19:32:18 configure liblzma5:armhf 5.2.5-1.0build2 <none>
+2021-06-25 19:32:18 status unpacked liblzma5:armhf 5.2.5-1.0build2
+2021-06-25 19:32:18 status half-configured liblzma5:armhf 5.2.5-1.0build2
+2021-06-25 19:32:18 status installed liblzma5:armhf 5.2.5-1.0build2
+2021-06-25 19:32:18 configure libgpg-error0:armhf 1.38-2build1 <none>
+2021-06-25 19:32:18 status unpacked libgpg-error0:armhf 1.38-2build1
+2021-06-25 19:32:18 status half-configured libgpg-error0:armhf 1.38-2build1
+2021-06-25 19:32:18 status installed libgpg-error0:armhf 1.38-2build1
+2021-06-25 19:32:18 configure liblz4-1:armhf 1.9.3-1build1 <none>
+2021-06-25 19:32:18 status unpacked liblz4-1:armhf 1.9.3-1build1
+2021-06-25 19:32:18 status half-configured liblz4-1:armhf 1.9.3-1build1
+2021-06-25 19:32:18 status installed liblz4-1:armhf 1.9.3-1build1
+2021-06-25 19:32:18 configure libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:32:18 status unpacked libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:18 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:18 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:18 configure ncurses-bin:armhf 6.2+20201114-2build1 <none>
+2021-06-25 19:32:18 status unpacked ncurses-bin:armhf 6.2+20201114-2build1
+2021-06-25 19:32:18 status half-configured ncurses-bin:armhf 6.2+20201114-2build1
+2021-06-25 19:32:18 status installed ncurses-bin:armhf 6.2+20201114-2build1
+2021-06-25 19:32:18 configure libacl1:armhf 2.2.53-10ubuntu1 <none>
+2021-06-25 19:32:18 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:18 status unpacked libacl1:armhf 2.2.53-10ubuntu1
+2021-06-25 19:32:18 status half-configured libacl1:armhf 2.2.53-10ubuntu1
+2021-06-25 19:32:18 status installed libacl1:armhf 2.2.53-10ubuntu1
+2021-06-25 19:32:18 configure libsmartcols1:armhf 2.36.1-7ubuntu2 <none>
+2021-06-25 19:32:18 status unpacked libsmartcols1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:18 status half-configured libsmartcols1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:18 status installed libsmartcols1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:18 configure libgcrypt20:armhf 1.8.7-2ubuntu2 <none>
+2021-06-25 19:32:18 status unpacked libgcrypt20:armhf 1.8.7-2ubuntu2
+2021-06-25 19:32:18 status half-configured libgcrypt20:armhf 1.8.7-2ubuntu2
+2021-06-25 19:32:18 status installed libgcrypt20:armhf 1.8.7-2ubuntu2
+2021-06-25 19:32:18 configure zlib1g:armhf 1:1.2.11.dfsg-2ubuntu6 <none>
+2021-06-25 19:32:18 status unpacked zlib1g:armhf 1:1.2.11.dfsg-2ubuntu6
+2021-06-25 19:32:18 status half-configured zlib1g:armhf 1:1.2.11.dfsg-2ubuntu6
+2021-06-25 19:32:19 status installed zlib1g:armhf 1:1.2.11.dfsg-2ubuntu6
+2021-06-25 19:32:19 configure libcom-err2:armhf 1.45.7-1ubuntu2 <none>
+2021-06-25 19:32:19 status unpacked libcom-err2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:19 status half-configured libcom-err2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:19 status installed libcom-err2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:19 configure diffutils:armhf 1:3.7-3ubuntu1 <none>
+2021-06-25 19:32:19 status unpacked diffutils:armhf 1:3.7-3ubuntu1
+2021-06-25 19:32:19 status half-configured diffutils:armhf 1:3.7-3ubuntu1
+2021-06-25 19:32:19 status installed diffutils:armhf 1:3.7-3ubuntu1
+2021-06-25 19:32:19 configure libcap2:armhf 1:2.44-1build1 <none>
+2021-06-25 19:32:19 status unpacked libcap2:armhf 1:2.44-1build1
+2021-06-25 19:32:19 status half-configured libcap2:armhf 1:2.44-1build1
+2021-06-25 19:32:19 status installed libcap2:armhf 1:2.44-1build1
+2021-06-25 19:32:19 configure hostname:armhf 3.23 <none>
+2021-06-25 19:32:19 status unpacked hostname:armhf 3.23
+2021-06-25 19:32:19 status half-configured hostname:armhf 3.23
+2021-06-25 19:32:19 status installed hostname:armhf 3.23
+2021-06-25 19:32:19 configure libpcre3:armhf 2:8.39-13build3 <none>
+2021-06-25 19:32:19 status unpacked libpcre3:armhf 2:8.39-13build3
+2021-06-25 19:32:19 status half-configured libpcre3:armhf 2:8.39-13build3
+2021-06-25 19:32:19 status installed libpcre3:armhf 2:8.39-13build3
+2021-06-25 19:32:19 configure libcap-ng0:armhf 0.7.9-2.2build1 <none>
+2021-06-25 19:32:19 status unpacked libcap-ng0:armhf 0.7.9-2.2build1
+2021-06-25 19:32:19 status half-configured libcap-ng0:armhf 0.7.9-2.2build1
+2021-06-25 19:32:19 status installed libcap-ng0:armhf 0.7.9-2.2build1
+2021-06-25 19:32:19 configure libext2fs2:armhf 1.45.7-1ubuntu2 <none>
+2021-06-25 19:32:19 status unpacked libext2fs2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:19 status half-configured libext2fs2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:19 status installed libext2fs2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:19 configure libgmp10:armhf 2:6.2.1+dfsg-1ubuntu2 <none>
+2021-06-25 19:32:19 status unpacked libgmp10:armhf 2:6.2.1+dfsg-1ubuntu2
+2021-06-25 19:32:19 status half-configured libgmp10:armhf 2:6.2.1+dfsg-1ubuntu2
+2021-06-25 19:32:19 status installed libgmp10:armhf 2:6.2.1+dfsg-1ubuntu2
+2021-06-25 19:32:19 configure libncurses6:armhf 6.2+20201114-2build1 <none>
+2021-06-25 19:32:19 status unpacked libncurses6:armhf 6.2+20201114-2build1
+2021-06-25 19:32:19 status half-configured libncurses6:armhf 6.2+20201114-2build1
+2021-06-25 19:32:19 status installed libncurses6:armhf 6.2+20201114-2build1
+2021-06-25 19:32:19 configure libaudit1:armhf 1:3.0-2ubuntu1 <none>
+2021-06-25 19:32:19 status unpacked libaudit1:armhf 1:3.0-2ubuntu1
+2021-06-25 19:32:19 status half-configured libaudit1:armhf 1:3.0-2ubuntu1
+2021-06-25 19:32:19 status installed libaudit1:armhf 1:3.0-2ubuntu1
+2021-06-25 19:32:19 configure libuuid1:armhf 2.36.1-7ubuntu2 <none>
+2021-06-25 19:32:19 status unpacked libuuid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:19 status half-configured libuuid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:19 status installed libuuid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:19 configure libss2:armhf 1.45.7-1ubuntu2 <none>
+2021-06-25 19:32:19 status unpacked libss2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:19 status half-configured libss2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:19 status installed libss2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:19 configure libpcre2-8-0:armhf 10.36-2ubuntu5 <none>
+2021-06-25 19:32:19 status unpacked libpcre2-8-0:armhf 10.36-2ubuntu5
+2021-06-25 19:32:19 status half-configured libpcre2-8-0:armhf 10.36-2ubuntu5
+2021-06-25 19:32:19 status installed libpcre2-8-0:armhf 10.36-2ubuntu5
+2021-06-25 19:32:19 configure libncursesw6:armhf 6.2+20201114-2build1 <none>
+2021-06-25 19:32:19 status unpacked libncursesw6:armhf 6.2+20201114-2build1
+2021-06-25 19:32:19 status half-configured libncursesw6:armhf 6.2+20201114-2build1
+2021-06-25 19:32:19 status installed libncursesw6:armhf 6.2+20201114-2build1
+2021-06-25 19:32:19 configure logsave:armhf 1.45.7-1ubuntu2 <none>
+2021-06-25 19:32:19 status unpacked logsave:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:19 status half-configured logsave:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:19 status installed logsave:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:19 configure e2fsprogs:armhf 1.45.7-1ubuntu2 <none>
+2021-06-25 19:32:19 status unpacked e2fsprogs:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:19 status half-configured e2fsprogs:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:19 status installed e2fsprogs:armhf 1.45.7-1ubuntu2
+2021-06-25 19:32:19 configure libsystemd0:armhf 247.3-3ubuntu3 <none>
+2021-06-25 19:32:19 status unpacked libsystemd0:armhf 247.3-3ubuntu3
+2021-06-25 19:32:19 status half-configured libsystemd0:armhf 247.3-3ubuntu3
+2021-06-25 19:32:19 status installed libsystemd0:armhf 247.3-3ubuntu3
+2021-06-25 19:32:19 configure libselinux1:armhf 3.1-3build1 <none>
+2021-06-25 19:32:19 status unpacked libselinux1:armhf 3.1-3build1
+2021-06-25 19:32:19 status half-configured libselinux1:armhf 3.1-3build1
+2021-06-25 19:32:19 status installed libselinux1:armhf 3.1-3build1
+2021-06-25 19:32:19 configure sed:armhf 4.7-1ubuntu1 <none>
+2021-06-25 19:32:19 status unpacked sed:armhf 4.7-1ubuntu1
+2021-06-25 19:32:19 status half-configured sed:armhf 4.7-1ubuntu1
+2021-06-25 19:32:19 status installed sed:armhf 4.7-1ubuntu1
+2021-06-25 19:32:19 configure findutils:armhf 4.8.0-1ubuntu1 <none>
+2021-06-25 19:32:19 status unpacked findutils:armhf 4.8.0-1ubuntu1
+2021-06-25 19:32:19 status half-configured findutils:armhf 4.8.0-1ubuntu1
+2021-06-25 19:32:19 status installed findutils:armhf 4.8.0-1ubuntu1
+2021-06-25 19:32:19 configure libmount1:armhf 2.36.1-7ubuntu2 <none>
+2021-06-25 19:32:19 status unpacked libmount1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:19 status half-configured libmount1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:19 status installed libmount1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:19 configure libsemanage1:armhf 3.1-1ubuntu1 <none>
+2021-06-25 19:32:19 status unpacked libsemanage1:armhf 3.1-1ubuntu1
+2021-06-25 19:32:19 status half-configured libsemanage1:armhf 3.1-1ubuntu1
+2021-06-25 19:32:19 status installed libsemanage1:armhf 3.1-1ubuntu1
+2021-06-25 19:32:19 configure libprocps8:armhf 2:3.3.16-5ubuntu3 <none>
+2021-06-25 19:32:19 status unpacked libprocps8:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:32:19 status half-configured libprocps8:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:32:19 status installed libprocps8:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:32:19 configure bsdutils:armhf 1:2.36.1-7ubuntu2 <none>
+2021-06-25 19:32:19 status unpacked bsdutils:armhf 1:2.36.1-7ubuntu2
+2021-06-25 19:32:19 status half-configured bsdutils:armhf 1:2.36.1-7ubuntu2
+2021-06-25 19:32:19 status installed bsdutils:armhf 1:2.36.1-7ubuntu2
+2021-06-25 19:32:19 configure tar:armhf 1.34+dfsg-1build1 <none>
+2021-06-25 19:32:19 status unpacked tar:armhf 1.34+dfsg-1build1
+2021-06-25 19:32:19 status half-configured tar:armhf 1.34+dfsg-1build1
+2021-06-25 19:32:19 status installed tar:armhf 1.34+dfsg-1build1
+2021-06-25 19:32:19 configure coreutils:armhf 8.32-4ubuntu2 <none>
+2021-06-25 19:32:19 status unpacked coreutils:armhf 8.32-4ubuntu2
+2021-06-25 19:32:19 status half-configured coreutils:armhf 8.32-4ubuntu2
+2021-06-25 19:32:19 status installed coreutils:armhf 8.32-4ubuntu2
+2021-06-25 19:32:19 configure dpkg:armhf 1.20.9ubuntu1 <none>
+2021-06-25 19:32:19 status unpacked dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:32:19 status half-configured dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:32:19 status installed dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:32:19 configure grep:armhf 3.6-1 <none>
+2021-06-25 19:32:19 status unpacked grep:armhf 3.6-1
+2021-06-25 19:32:19 status half-configured grep:armhf 3.6-1
+2021-06-25 19:32:19 status installed grep:armhf 3.6-1
+2021-06-25 19:32:19 configure perl-base:armhf 5.32.1-3ubuntu2 <none>
+2021-06-25 19:32:19 status unpacked perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:32:19 status half-configured perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:32:19 status installed perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:32:19 configure init-system-helpers:all 1.60 <none>
+2021-06-25 19:32:19 status unpacked init-system-helpers:all 1.60
+2021-06-25 19:32:19 status half-configured init-system-helpers:all 1.60
+2021-06-25 19:32:19 status installed init-system-helpers:all 1.60
+2021-06-25 19:32:19 configure gzip:armhf 1.10-2ubuntu3 <none>
+2021-06-25 19:32:19 status unpacked gzip:armhf 1.10-2ubuntu3
+2021-06-25 19:32:19 status half-configured gzip:armhf 1.10-2ubuntu3
+2021-06-25 19:32:19 status installed gzip:armhf 1.10-2ubuntu3
+2021-06-25 19:32:19 configure usrmerge:all 24ubuntu3 <none>
+2021-06-25 19:32:19 status unpacked usrmerge:all 24ubuntu3
+2021-06-25 19:32:20 status half-configured usrmerge:all 24ubuntu3
+2021-06-25 19:32:20 status installed usrmerge:all 24ubuntu3
+2021-06-25 19:32:20 configure procps:armhf 2:3.3.16-5ubuntu3 <none>
+2021-06-25 19:32:20 status unpacked procps:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:32:20 status half-configured procps:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:32:20 status installed procps:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:32:20 configure debconf:all 1.5.74 <none>
+2021-06-25 19:32:20 status unpacked debconf:all 1.5.74
+2021-06-25 19:32:20 status half-configured debconf:all 1.5.74
+2021-06-25 19:32:20 status installed debconf:all 1.5.74
+2021-06-25 19:32:20 configure libpam0g:armhf 1.3.1-5ubuntu6 <none>
+2021-06-25 19:32:20 status unpacked libpam0g:armhf 1.3.1-5ubuntu6
+2021-06-25 19:32:20 status half-configured libpam0g:armhf 1.3.1-5ubuntu6
+2021-06-25 19:32:20 status installed libpam0g:armhf 1.3.1-5ubuntu6
+2021-06-25 19:32:20 configure dash:armhf 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1 <none>
+2021-06-25 19:32:20 status unpacked dash:armhf 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1
+2021-06-25 19:32:20 status half-configured dash:armhf 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1
+2021-06-25 19:32:20 status installed dash:armhf 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1
+2021-06-25 19:32:20 configure libpam-modules-bin:armhf 1.3.1-5ubuntu6 <none>
+2021-06-25 19:32:20 status unpacked libpam-modules-bin:armhf 1.3.1-5ubuntu6
+2021-06-25 19:32:20 status half-configured libpam-modules-bin:armhf 1.3.1-5ubuntu6
+2021-06-25 19:32:20 status installed libpam-modules-bin:armhf 1.3.1-5ubuntu6
+2021-06-25 19:32:21 configure libpam-modules:armhf 1.3.1-5ubuntu6 <none>
+2021-06-25 19:32:21 status unpacked libpam-modules:armhf 1.3.1-5ubuntu6
+2021-06-25 19:32:21 status half-configured libpam-modules:armhf 1.3.1-5ubuntu6
+2021-06-25 19:32:21 status installed libpam-modules:armhf 1.3.1-5ubuntu6
+2021-06-25 19:32:21 configure passwd:armhf 1:4.8.1-1ubuntu8 <none>
+2021-06-25 19:32:21 status unpacked passwd:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:32:21 status half-configured passwd:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:32:21 status installed passwd:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:32:21 configure libpam-runtime:all 1.3.1-5ubuntu6 <none>
+2021-06-25 19:32:21 status unpacked libpam-runtime:all 1.3.1-5ubuntu6
+2021-06-25 19:32:21 status half-configured libpam-runtime:all 1.3.1-5ubuntu6
+2021-06-25 19:32:21 status installed libpam-runtime:all 1.3.1-5ubuntu6
+2021-06-25 19:32:21 configure login:armhf 1:4.8.1-1ubuntu8 <none>
+2021-06-25 19:32:21 status unpacked login:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:32:21 status half-configured login:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:32:21 status installed login:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:32:21 configure util-linux:armhf 2.36.1-7ubuntu2 <none>
+2021-06-25 19:32:21 status unpacked util-linux:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:21 status half-configured util-linux:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:21 status installed util-linux:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:21 configure mount:armhf 2.36.1-7ubuntu2 <none>
+2021-06-25 19:32:21 status unpacked mount:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:21 status half-configured mount:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:21 status installed mount:armhf 2.36.1-7ubuntu2
+2021-06-25 19:32:21 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:32:21 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:21 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:22 startup archives unpack
+2021-06-25 19:32:22 install adduser:all <none> 3.118ubuntu5
+2021-06-25 19:32:22 status half-installed adduser:all 3.118ubuntu5
+2021-06-25 19:32:22 status unpacked adduser:all 3.118ubuntu5
+2021-06-25 19:32:22 install apt:armhf <none> 2.2.3
+2021-06-25 19:32:22 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:22 status half-installed apt:armhf 2.2.3
+2021-06-25 19:32:22 status unpacked apt:armhf 2.2.3
+2021-06-25 19:32:22 install gpgv:armhf <none> 2.2.20-1ubuntu3
+2021-06-25 19:32:22 status half-installed gpgv:armhf 2.2.20-1ubuntu3
+2021-06-25 19:32:22 status unpacked gpgv:armhf 2.2.20-1ubuntu3
+2021-06-25 19:32:22 install libapt-pkg6.0:armhf <none> 2.2.3
+2021-06-25 19:32:22 status half-installed libapt-pkg6.0:armhf 2.2.3
+2021-06-25 19:32:22 status unpacked libapt-pkg6.0:armhf 2.2.3
+2021-06-25 19:32:22 install libffi8ubuntu1:armhf <none> 3.4~20200819gead65ca871-0ubuntu5
+2021-06-25 19:32:22 status half-installed libffi8ubuntu1:armhf 3.4~20200819gead65ca871-0ubuntu5
+2021-06-25 19:32:22 status unpacked libffi8ubuntu1:armhf 3.4~20200819gead65ca871-0ubuntu5
+2021-06-25 19:32:22 install libgnutls30:armhf <none> 3.7.1-3ubuntu1
+2021-06-25 19:32:22 status half-installed libgnutls30:armhf 3.7.1-3ubuntu1
+2021-06-25 19:32:23 status unpacked libgnutls30:armhf 3.7.1-3ubuntu1
+2021-06-25 19:32:23 install libhogweed6:armhf <none> 3.7-2.1ubuntu1
+2021-06-25 19:32:23 status half-installed libhogweed6:armhf 3.7-2.1ubuntu1
+2021-06-25 19:32:23 status unpacked libhogweed6:armhf 3.7-2.1ubuntu1
+2021-06-25 19:32:23 install libidn2-0:armhf <none> 2.3.0-5
+2021-06-25 19:32:23 status half-installed libidn2-0:armhf 2.3.0-5
+2021-06-25 19:32:23 status unpacked libidn2-0:armhf 2.3.0-5
+2021-06-25 19:32:23 install libnettle8:armhf <none> 3.7-2.1ubuntu1
+2021-06-25 19:32:23 status half-installed libnettle8:armhf 3.7-2.1ubuntu1
+2021-06-25 19:32:23 status unpacked libnettle8:armhf 3.7-2.1ubuntu1
+2021-06-25 19:32:23 install libp11-kit0:armhf <none> 0.23.22-1
+2021-06-25 19:32:23 status half-installed libp11-kit0:armhf 0.23.22-1
+2021-06-25 19:32:23 status unpacked libp11-kit0:armhf 0.23.22-1
+2021-06-25 19:32:23 install libseccomp2:armhf <none> 2.5.1-1ubuntu1
+2021-06-25 19:32:23 status half-installed libseccomp2:armhf 2.5.1-1ubuntu1
+2021-06-25 19:32:23 status unpacked libseccomp2:armhf 2.5.1-1ubuntu1
+2021-06-25 19:32:23 install libstdc++6:armhf <none> 11-20210417-1ubuntu1
+2021-06-25 19:32:23 status half-installed libstdc++6:armhf 11-20210417-1ubuntu1
+2021-06-25 19:32:23 status unpacked libstdc++6:armhf 11-20210417-1ubuntu1
+2021-06-25 19:32:23 install libtasn1-6:armhf <none> 4.16.0-2
+2021-06-25 19:32:23 status half-installed libtasn1-6:armhf 4.16.0-2
+2021-06-25 19:32:23 status unpacked libtasn1-6:armhf 4.16.0-2
+2021-06-25 19:32:23 install libunistring2:armhf <none> 0.9.10-4
+2021-06-25 19:32:23 status half-installed libunistring2:armhf 0.9.10-4
+2021-06-25 19:32:23 status unpacked libunistring2:armhf 0.9.10-4
+2021-06-25 19:32:23 install libxxhash0:armhf <none> 0.8.0-2
+2021-06-25 19:32:23 status half-installed libxxhash0:armhf 0.8.0-2
+2021-06-25 19:32:23 status unpacked libxxhash0:armhf 0.8.0-2
+2021-06-25 19:32:23 install ubuntu-keyring:all <none> 2021.03.26
+2021-06-25 19:32:23 status half-installed ubuntu-keyring:all 2021.03.26
+2021-06-25 19:32:23 status unpacked ubuntu-keyring:all 2021.03.26
+2021-06-25 19:32:23 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:32:23 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:23 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:23 startup packages configure
+2021-06-25 19:32:23 configure adduser:all 3.118ubuntu5 <none>
+2021-06-25 19:32:23 status unpacked adduser:all 3.118ubuntu5
+2021-06-25 19:32:23 status half-configured adduser:all 3.118ubuntu5
+2021-06-25 19:32:24 status installed adduser:all 3.118ubuntu5
+2021-06-25 19:32:24 configure libunistring2:armhf 0.9.10-4 <none>
+2021-06-25 19:32:24 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:24 status unpacked libunistring2:armhf 0.9.10-4
+2021-06-25 19:32:24 status half-configured libunistring2:armhf 0.9.10-4
+2021-06-25 19:32:24 status installed libunistring2:armhf 0.9.10-4
+2021-06-25 19:32:24 configure libffi8ubuntu1:armhf 3.4~20200819gead65ca871-0ubuntu5 <none>
+2021-06-25 19:32:24 status unpacked libffi8ubuntu1:armhf 3.4~20200819gead65ca871-0ubuntu5
+2021-06-25 19:32:24 status half-configured libffi8ubuntu1:armhf 3.4~20200819gead65ca871-0ubuntu5
+2021-06-25 19:32:24 status installed libffi8ubuntu1:armhf 3.4~20200819gead65ca871-0ubuntu5
+2021-06-25 19:32:24 configure libidn2-0:armhf 2.3.0-5 <none>
+2021-06-25 19:32:24 status unpacked libidn2-0:armhf 2.3.0-5
+2021-06-25 19:32:24 status half-configured libidn2-0:armhf 2.3.0-5
+2021-06-25 19:32:24 status installed libidn2-0:armhf 2.3.0-5
+2021-06-25 19:32:24 configure ubuntu-keyring:all 2021.03.26 <none>
+2021-06-25 19:32:24 status unpacked ubuntu-keyring:all 2021.03.26
+2021-06-25 19:32:24 status half-configured ubuntu-keyring:all 2021.03.26
+2021-06-25 19:32:24 status installed ubuntu-keyring:all 2021.03.26
+2021-06-25 19:32:24 configure libseccomp2:armhf 2.5.1-1ubuntu1 <none>
+2021-06-25 19:32:24 status unpacked libseccomp2:armhf 2.5.1-1ubuntu1
+2021-06-25 19:32:24 status half-configured libseccomp2:armhf 2.5.1-1ubuntu1
+2021-06-25 19:32:24 status installed libseccomp2:armhf 2.5.1-1ubuntu1
+2021-06-25 19:32:24 configure libnettle8:armhf 3.7-2.1ubuntu1 <none>
+2021-06-25 19:32:24 status unpacked libnettle8:armhf 3.7-2.1ubuntu1
+2021-06-25 19:32:24 status half-configured libnettle8:armhf 3.7-2.1ubuntu1
+2021-06-25 19:32:24 status installed libnettle8:armhf 3.7-2.1ubuntu1
+2021-06-25 19:32:24 configure libp11-kit0:armhf 0.23.22-1 <none>
+2021-06-25 19:32:24 status unpacked libp11-kit0:armhf 0.23.22-1
+2021-06-25 19:32:24 status half-configured libp11-kit0:armhf 0.23.22-1
+2021-06-25 19:32:24 status installed libp11-kit0:armhf 0.23.22-1
+2021-06-25 19:32:24 configure gpgv:armhf 2.2.20-1ubuntu3 <none>
+2021-06-25 19:32:24 status unpacked gpgv:armhf 2.2.20-1ubuntu3
+2021-06-25 19:32:24 status half-configured gpgv:armhf 2.2.20-1ubuntu3
+2021-06-25 19:32:24 status installed gpgv:armhf 2.2.20-1ubuntu3
+2021-06-25 19:32:24 configure libxxhash0:armhf 0.8.0-2 <none>
+2021-06-25 19:32:24 status unpacked libxxhash0:armhf 0.8.0-2
+2021-06-25 19:32:24 status half-configured libxxhash0:armhf 0.8.0-2
+2021-06-25 19:32:24 status installed libxxhash0:armhf 0.8.0-2
+2021-06-25 19:32:24 configure libtasn1-6:armhf 4.16.0-2 <none>
+2021-06-25 19:32:24 status unpacked libtasn1-6:armhf 4.16.0-2
+2021-06-25 19:32:24 status half-configured libtasn1-6:armhf 4.16.0-2
+2021-06-25 19:32:24 status installed libtasn1-6:armhf 4.16.0-2
+2021-06-25 19:32:24 configure libstdc++6:armhf 11-20210417-1ubuntu1 <none>
+2021-06-25 19:32:24 status unpacked libstdc++6:armhf 11-20210417-1ubuntu1
+2021-06-25 19:32:24 status half-configured libstdc++6:armhf 11-20210417-1ubuntu1
+2021-06-25 19:32:24 status installed libstdc++6:armhf 11-20210417-1ubuntu1
+2021-06-25 19:32:24 configure libhogweed6:armhf 3.7-2.1ubuntu1 <none>
+2021-06-25 19:32:24 status unpacked libhogweed6:armhf 3.7-2.1ubuntu1
+2021-06-25 19:32:24 status half-configured libhogweed6:armhf 3.7-2.1ubuntu1
+2021-06-25 19:32:24 status installed libhogweed6:armhf 3.7-2.1ubuntu1
+2021-06-25 19:32:24 configure libgnutls30:armhf 3.7.1-3ubuntu1 <none>
+2021-06-25 19:32:24 status unpacked libgnutls30:armhf 3.7.1-3ubuntu1
+2021-06-25 19:32:24 status half-configured libgnutls30:armhf 3.7.1-3ubuntu1
+2021-06-25 19:32:24 status installed libgnutls30:armhf 3.7.1-3ubuntu1
+2021-06-25 19:32:24 configure libapt-pkg6.0:armhf 2.2.3 <none>
+2021-06-25 19:32:24 status unpacked libapt-pkg6.0:armhf 2.2.3
+2021-06-25 19:32:24 status half-configured libapt-pkg6.0:armhf 2.2.3
+2021-06-25 19:32:24 status installed libapt-pkg6.0:armhf 2.2.3
+2021-06-25 19:32:24 configure apt:armhf 2.2.3 <none>
+2021-06-25 19:32:24 status unpacked apt:armhf 2.2.3
+2021-06-25 19:32:24 status half-configured apt:armhf 2.2.3
+2021-06-25 19:32:25 status installed apt:armhf 2.2.3
+2021-06-25 19:32:25 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:32:25 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:25 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:38 startup archives unpack
+2021-06-25 19:32:38 upgrade adduser:all 3.118ubuntu5 3.118ubuntu5
+2021-06-25 19:32:38 status half-configured adduser:all 3.118ubuntu5
+2021-06-25 19:32:38 status unpacked adduser:all 3.118ubuntu5
+2021-06-25 19:32:38 status half-installed adduser:all 3.118ubuntu5
+2021-06-25 19:32:38 status unpacked adduser:all 3.118ubuntu5
+2021-06-25 19:32:39 startup packages configure
+2021-06-25 19:32:39 configure adduser:all 3.118ubuntu5 <none>
+2021-06-25 19:32:39 status unpacked adduser:all 3.118ubuntu5
+2021-06-25 19:32:39 status half-configured adduser:all 3.118ubuntu5
+2021-06-25 19:32:39 status installed adduser:all 3.118ubuntu5
+2021-06-25 19:32:40 startup packages configure
+2021-06-25 19:32:54 startup archives unpack
+2021-06-25 19:32:54 upgrade apt:armhf 2.2.3 2.2.3
+2021-06-25 19:32:54 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:54 status half-configured apt:armhf 2.2.3
+2021-06-25 19:32:54 status unpacked apt:armhf 2.2.3
+2021-06-25 19:32:54 status half-installed apt:armhf 2.2.3
+2021-06-25 19:32:54 status unpacked apt:armhf 2.2.3
+2021-06-25 19:32:55 startup packages configure
+2021-06-25 19:32:55 configure apt:armhf 2.2.3 <none>
+2021-06-25 19:32:55 status unpacked apt:armhf 2.2.3
+2021-06-25 19:32:55 status half-configured apt:armhf 2.2.3
+2021-06-25 19:32:56 status installed apt:armhf 2.2.3
+2021-06-25 19:32:57 startup packages configure
+2021-06-25 19:32:57 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:32:57 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:32:57 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:33:10 startup archives unpack
+2021-06-25 19:33:10 upgrade base-files:armhf 11ubuntu19 11ubuntu19
+2021-06-25 19:33:10 status half-configured base-files:armhf 11ubuntu19
+2021-06-25 19:33:10 status unpacked base-files:armhf 11ubuntu19
+2021-06-25 19:33:10 status half-installed base-files:armhf 11ubuntu19
+2021-06-25 19:33:10 status unpacked base-files:armhf 11ubuntu19
+2021-06-25 19:33:11 startup packages configure
+2021-06-25 19:33:11 configure base-files:armhf 11ubuntu19 <none>
+2021-06-25 19:33:11 status unpacked base-files:armhf 11ubuntu19
+2021-06-25 19:33:11 status half-configured base-files:armhf 11ubuntu19
+2021-06-25 19:33:12 status installed base-files:armhf 11ubuntu19
+2021-06-25 19:33:13 startup packages configure
+2021-06-25 19:33:26 startup archives unpack
+2021-06-25 19:33:26 upgrade base-passwd:armhf 3.5.49 3.5.49
+2021-06-25 19:33:26 status half-configured base-passwd:armhf 3.5.49
+2021-06-25 19:33:26 status unpacked base-passwd:armhf 3.5.49
+2021-06-25 19:33:26 status half-installed base-passwd:armhf 3.5.49
+2021-06-25 19:33:26 status unpacked base-passwd:armhf 3.5.49
+2021-06-25 19:33:27 startup packages configure
+2021-06-25 19:33:27 configure base-passwd:armhf 3.5.49 <none>
+2021-06-25 19:33:27 status unpacked base-passwd:armhf 3.5.49
+2021-06-25 19:33:27 status half-configured base-passwd:armhf 3.5.49
+2021-06-25 19:33:27 status installed base-passwd:armhf 3.5.49
+2021-06-25 19:33:28 startup packages configure
+2021-06-25 19:33:41 startup archives unpack
+2021-06-25 19:33:41 upgrade bash:armhf 5.1-2ubuntu1 5.1-2ubuntu1
+2021-06-25 19:33:41 status half-configured bash:armhf 5.1-2ubuntu1
+2021-06-25 19:33:41 status unpacked bash:armhf 5.1-2ubuntu1
+2021-06-25 19:33:41 status half-installed bash:armhf 5.1-2ubuntu1
+2021-06-25 19:33:42 status unpacked bash:armhf 5.1-2ubuntu1
+2021-06-25 19:33:43 startup packages configure
+2021-06-25 19:33:43 configure bash:armhf 5.1-2ubuntu1 <none>
+2021-06-25 19:33:43 status unpacked bash:armhf 5.1-2ubuntu1
+2021-06-25 19:33:43 status half-configured bash:armhf 5.1-2ubuntu1
+2021-06-25 19:33:43 status installed bash:armhf 5.1-2ubuntu1
+2021-06-25 19:33:44 startup packages configure
+2021-06-25 19:33:57 startup archives unpack
+2021-06-25 19:33:57 upgrade bsdutils:armhf 1:2.36.1-7ubuntu2 1:2.36.1-7ubuntu2
+2021-06-25 19:33:57 status half-configured bsdutils:armhf 1:2.36.1-7ubuntu2
+2021-06-25 19:33:57 status unpacked bsdutils:armhf 1:2.36.1-7ubuntu2
+2021-06-25 19:33:57 status half-installed bsdutils:armhf 1:2.36.1-7ubuntu2
+2021-06-25 19:33:57 status unpacked bsdutils:armhf 1:2.36.1-7ubuntu2
+2021-06-25 19:33:58 startup packages configure
+2021-06-25 19:33:58 configure bsdutils:armhf 1:2.36.1-7ubuntu2 <none>
+2021-06-25 19:33:58 status unpacked bsdutils:armhf 1:2.36.1-7ubuntu2
+2021-06-25 19:33:58 status half-configured bsdutils:armhf 1:2.36.1-7ubuntu2
+2021-06-25 19:33:58 status installed bsdutils:armhf 1:2.36.1-7ubuntu2
+2021-06-25 19:33:59 startup packages configure
+2021-06-25 19:34:12 startup archives unpack
+2021-06-25 19:34:12 upgrade coreutils:armhf 8.32-4ubuntu2 8.32-4ubuntu2
+2021-06-25 19:34:12 status half-configured coreutils:armhf 8.32-4ubuntu2
+2021-06-25 19:34:12 status unpacked coreutils:armhf 8.32-4ubuntu2
+2021-06-25 19:34:12 status half-installed coreutils:armhf 8.32-4ubuntu2
+2021-06-25 19:34:12 status unpacked coreutils:armhf 8.32-4ubuntu2
+2021-06-25 19:34:13 startup packages configure
+2021-06-25 19:34:13 configure coreutils:armhf 8.32-4ubuntu2 <none>
+2021-06-25 19:34:13 status unpacked coreutils:armhf 8.32-4ubuntu2
+2021-06-25 19:34:13 status half-configured coreutils:armhf 8.32-4ubuntu2
+2021-06-25 19:34:13 status installed coreutils:armhf 8.32-4ubuntu2
+2021-06-25 19:34:15 startup packages configure
+2021-06-25 19:34:28 startup archives unpack
+2021-06-25 19:34:28 upgrade dash:armhf 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1
+2021-06-25 19:34:28 status half-configured dash:armhf 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1
+2021-06-25 19:34:28 status unpacked dash:armhf 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1
+2021-06-25 19:34:28 status half-installed dash:armhf 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1
+2021-06-25 19:34:28 status unpacked dash:armhf 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1
+2021-06-25 19:34:29 startup packages configure
+2021-06-25 19:34:29 configure dash:armhf 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1 <none>
+2021-06-25 19:34:29 status unpacked dash:armhf 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1
+2021-06-25 19:34:29 status half-configured dash:armhf 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1
+2021-06-25 19:34:29 status installed dash:armhf 0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1
+2021-06-25 19:34:30 startup packages configure
+2021-06-25 19:34:43 startup archives unpack
+2021-06-25 19:34:43 upgrade debconf:all 1.5.74 1.5.74
+2021-06-25 19:34:43 status half-configured debconf:all 1.5.74
+2021-06-25 19:34:43 status unpacked debconf:all 1.5.74
+2021-06-25 19:34:43 status half-installed debconf:all 1.5.74
+2021-06-25 19:34:43 status unpacked debconf:all 1.5.74
+2021-06-25 19:34:44 startup packages configure
+2021-06-25 19:34:44 configure debconf:all 1.5.74 <none>
+2021-06-25 19:34:44 status unpacked debconf:all 1.5.74
+2021-06-25 19:34:44 status half-configured debconf:all 1.5.74
+2021-06-25 19:34:45 status installed debconf:all 1.5.74
+2021-06-25 19:34:46 startup packages configure
+2021-06-25 19:34:59 startup archives unpack
+2021-06-25 19:34:59 upgrade debianutils:armhf 4.11.2 4.11.2
+2021-06-25 19:34:59 status half-configured debianutils:armhf 4.11.2
+2021-06-25 19:34:59 status unpacked debianutils:armhf 4.11.2
+2021-06-25 19:34:59 status half-installed debianutils:armhf 4.11.2
+2021-06-25 19:34:59 status unpacked debianutils:armhf 4.11.2
+2021-06-25 19:35:00 startup packages configure
+2021-06-25 19:35:00 configure debianutils:armhf 4.11.2 <none>
+2021-06-25 19:35:00 status unpacked debianutils:armhf 4.11.2
+2021-06-25 19:35:00 status half-configured debianutils:armhf 4.11.2
+2021-06-25 19:35:00 status installed debianutils:armhf 4.11.2
+2021-06-25 19:35:01 startup packages configure
+2021-06-25 19:35:14 startup archives unpack
+2021-06-25 19:35:14 upgrade diffutils:armhf 1:3.7-3ubuntu1 1:3.7-3ubuntu1
+2021-06-25 19:35:14 status half-configured diffutils:armhf 1:3.7-3ubuntu1
+2021-06-25 19:35:14 status unpacked diffutils:armhf 1:3.7-3ubuntu1
+2021-06-25 19:35:14 status half-installed diffutils:armhf 1:3.7-3ubuntu1
+2021-06-25 19:35:14 status unpacked diffutils:armhf 1:3.7-3ubuntu1
+2021-06-25 19:35:15 startup packages configure
+2021-06-25 19:35:15 configure diffutils:armhf 1:3.7-3ubuntu1 <none>
+2021-06-25 19:35:15 status unpacked diffutils:armhf 1:3.7-3ubuntu1
+2021-06-25 19:35:15 status half-configured diffutils:armhf 1:3.7-3ubuntu1
+2021-06-25 19:35:15 status installed diffutils:armhf 1:3.7-3ubuntu1
+2021-06-25 19:35:16 startup packages configure
+2021-06-25 19:35:30 startup archives unpack
+2021-06-25 19:35:30 upgrade dpkg:armhf 1.20.9ubuntu1 1.20.9ubuntu1
+2021-06-25 19:35:30 status half-configured dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:35:30 status unpacked dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:35:30 status half-installed dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:35:30 status unpacked dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:35:31 startup packages configure
+2021-06-25 19:35:31 configure dpkg:armhf 1.20.9ubuntu1 <none>
+2021-06-25 19:35:31 status unpacked dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:35:31 status half-configured dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:35:31 status installed dpkg:armhf 1.20.9ubuntu1
+2021-06-25 19:35:32 startup packages configure
+2021-06-25 19:35:45 startup archives unpack
+2021-06-25 19:35:45 upgrade e2fsprogs:armhf 1.45.7-1ubuntu2 1.45.7-1ubuntu2
+2021-06-25 19:35:45 status half-configured e2fsprogs:armhf 1.45.7-1ubuntu2
+2021-06-25 19:35:45 status unpacked e2fsprogs:armhf 1.45.7-1ubuntu2
+2021-06-25 19:35:45 status half-installed e2fsprogs:armhf 1.45.7-1ubuntu2
+2021-06-25 19:35:45 status unpacked e2fsprogs:armhf 1.45.7-1ubuntu2
+2021-06-25 19:35:47 startup packages configure
+2021-06-25 19:35:47 configure e2fsprogs:armhf 1.45.7-1ubuntu2 <none>
+2021-06-25 19:35:47 status unpacked e2fsprogs:armhf 1.45.7-1ubuntu2
+2021-06-25 19:35:47 status half-configured e2fsprogs:armhf 1.45.7-1ubuntu2
+2021-06-25 19:35:47 status installed e2fsprogs:armhf 1.45.7-1ubuntu2
+2021-06-25 19:36:00 startup archives unpack
+2021-06-25 19:36:00 upgrade findutils:armhf 4.8.0-1ubuntu1 4.8.0-1ubuntu1
+2021-06-25 19:36:00 status half-configured findutils:armhf 4.8.0-1ubuntu1
+2021-06-25 19:36:00 status unpacked findutils:armhf 4.8.0-1ubuntu1
+2021-06-25 19:36:00 status half-installed findutils:armhf 4.8.0-1ubuntu1
+2021-06-25 19:36:00 status unpacked findutils:armhf 4.8.0-1ubuntu1
+2021-06-25 19:36:01 startup packages configure
+2021-06-25 19:36:01 configure findutils:armhf 4.8.0-1ubuntu1 <none>
+2021-06-25 19:36:01 status unpacked findutils:armhf 4.8.0-1ubuntu1
+2021-06-25 19:36:01 status half-configured findutils:armhf 4.8.0-1ubuntu1
+2021-06-25 19:36:01 status installed findutils:armhf 4.8.0-1ubuntu1
+2021-06-25 19:36:03 startup packages configure
+2021-06-25 19:36:15 startup archives unpack
+2021-06-25 19:36:15 upgrade gcc-11-base:armhf 11-20210417-1ubuntu1 11-20210417-1ubuntu1
+2021-06-25 19:36:15 status half-configured gcc-11-base:armhf 11-20210417-1ubuntu1
+2021-06-25 19:36:15 status unpacked gcc-11-base:armhf 11-20210417-1ubuntu1
+2021-06-25 19:36:15 status half-installed gcc-11-base:armhf 11-20210417-1ubuntu1
+2021-06-25 19:36:15 status unpacked gcc-11-base:armhf 11-20210417-1ubuntu1
+2021-06-25 19:36:17 startup packages configure
+2021-06-25 19:36:17 configure gcc-11-base:armhf 11-20210417-1ubuntu1 <none>
+2021-06-25 19:36:17 status unpacked gcc-11-base:armhf 11-20210417-1ubuntu1
+2021-06-25 19:36:17 status half-configured gcc-11-base:armhf 11-20210417-1ubuntu1
+2021-06-25 19:36:17 status installed gcc-11-base:armhf 11-20210417-1ubuntu1
+2021-06-25 19:36:18 startup packages configure
+2021-06-25 19:36:31 startup archives unpack
+2021-06-25 19:36:31 upgrade gpgv:armhf 2.2.20-1ubuntu3 2.2.20-1ubuntu3
+2021-06-25 19:36:31 status half-configured gpgv:armhf 2.2.20-1ubuntu3
+2021-06-25 19:36:31 status unpacked gpgv:armhf 2.2.20-1ubuntu3
+2021-06-25 19:36:31 status half-installed gpgv:armhf 2.2.20-1ubuntu3
+2021-06-25 19:36:31 status unpacked gpgv:armhf 2.2.20-1ubuntu3
+2021-06-25 19:36:32 startup packages configure
+2021-06-25 19:36:32 configure gpgv:armhf 2.2.20-1ubuntu3 <none>
+2021-06-25 19:36:32 status unpacked gpgv:armhf 2.2.20-1ubuntu3
+2021-06-25 19:36:32 status half-configured gpgv:armhf 2.2.20-1ubuntu3
+2021-06-25 19:36:32 status installed gpgv:armhf 2.2.20-1ubuntu3
+2021-06-25 19:36:33 startup packages configure
+2021-06-25 19:36:46 startup archives unpack
+2021-06-25 19:36:46 upgrade grep:armhf 3.6-1 3.6-1
+2021-06-25 19:36:46 status half-configured grep:armhf 3.6-1
+2021-06-25 19:36:46 status unpacked grep:armhf 3.6-1
+2021-06-25 19:36:46 status half-installed grep:armhf 3.6-1
+2021-06-25 19:36:46 status unpacked grep:armhf 3.6-1
+2021-06-25 19:36:47 startup packages configure
+2021-06-25 19:36:47 configure grep:armhf 3.6-1 <none>
+2021-06-25 19:36:47 status unpacked grep:armhf 3.6-1
+2021-06-25 19:36:47 status half-configured grep:armhf 3.6-1
+2021-06-25 19:36:47 status installed grep:armhf 3.6-1
+2021-06-25 19:36:48 startup packages configure
+2021-06-25 19:37:01 startup archives unpack
+2021-06-25 19:37:01 upgrade gzip:armhf 1.10-2ubuntu3 1.10-2ubuntu3
+2021-06-25 19:37:01 status half-configured gzip:armhf 1.10-2ubuntu3
+2021-06-25 19:37:01 status unpacked gzip:armhf 1.10-2ubuntu3
+2021-06-25 19:37:01 status half-installed gzip:armhf 1.10-2ubuntu3
+2021-06-25 19:37:01 status unpacked gzip:armhf 1.10-2ubuntu3
+2021-06-25 19:37:03 startup packages configure
+2021-06-25 19:37:03 configure gzip:armhf 1.10-2ubuntu3 <none>
+2021-06-25 19:37:03 status unpacked gzip:armhf 1.10-2ubuntu3
+2021-06-25 19:37:03 status half-configured gzip:armhf 1.10-2ubuntu3
+2021-06-25 19:37:03 status installed gzip:armhf 1.10-2ubuntu3
+2021-06-25 19:37:04 startup packages configure
+2021-06-25 19:37:17 startup archives unpack
+2021-06-25 19:37:17 upgrade hostname:armhf 3.23 3.23
+2021-06-25 19:37:17 status half-configured hostname:armhf 3.23
+2021-06-25 19:37:17 status unpacked hostname:armhf 3.23
+2021-06-25 19:37:17 status half-installed hostname:armhf 3.23
+2021-06-25 19:37:17 status unpacked hostname:armhf 3.23
+2021-06-25 19:37:18 startup packages configure
+2021-06-25 19:37:18 configure hostname:armhf 3.23 <none>
+2021-06-25 19:37:18 status unpacked hostname:armhf 3.23
+2021-06-25 19:37:18 status half-configured hostname:armhf 3.23
+2021-06-25 19:37:18 status installed hostname:armhf 3.23
+2021-06-25 19:37:19 startup packages configure
+2021-06-25 19:37:32 startup archives unpack
+2021-06-25 19:37:32 upgrade init-system-helpers:all 1.60 1.60
+2021-06-25 19:37:32 status half-configured init-system-helpers:all 1.60
+2021-06-25 19:37:32 status unpacked init-system-helpers:all 1.60
+2021-06-25 19:37:32 status half-installed init-system-helpers:all 1.60
+2021-06-25 19:37:32 status unpacked init-system-helpers:all 1.60
+2021-06-25 19:37:33 startup packages configure
+2021-06-25 19:37:33 configure init-system-helpers:all 1.60 <none>
+2021-06-25 19:37:33 status unpacked init-system-helpers:all 1.60
+2021-06-25 19:37:33 status half-configured init-system-helpers:all 1.60
+2021-06-25 19:37:33 status installed init-system-helpers:all 1.60
+2021-06-25 19:37:34 startup packages configure
+2021-06-25 19:37:47 startup archives unpack
+2021-06-25 19:37:47 upgrade libacl1:armhf 2.2.53-10ubuntu1 2.2.53-10ubuntu1
+2021-06-25 19:37:47 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:37:47 status half-configured libacl1:armhf 2.2.53-10ubuntu1
+2021-06-25 19:37:47 status unpacked libacl1:armhf 2.2.53-10ubuntu1
+2021-06-25 19:37:47 status half-installed libacl1:armhf 2.2.53-10ubuntu1
+2021-06-25 19:37:47 status unpacked libacl1:armhf 2.2.53-10ubuntu1
+2021-06-25 19:37:48 startup packages configure
+2021-06-25 19:37:48 configure libacl1:armhf 2.2.53-10ubuntu1 <none>
+2021-06-25 19:37:48 status unpacked libacl1:armhf 2.2.53-10ubuntu1
+2021-06-25 19:37:48 status half-configured libacl1:armhf 2.2.53-10ubuntu1
+2021-06-25 19:37:48 status installed libacl1:armhf 2.2.53-10ubuntu1
+2021-06-25 19:37:50 startup packages configure
+2021-06-25 19:37:50 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:37:50 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:37:50 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:38:03 startup archives unpack
+2021-06-25 19:38:03 upgrade libapt-pkg6.0:armhf 2.2.3 2.2.3
+2021-06-25 19:38:03 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:38:03 status half-configured libapt-pkg6.0:armhf 2.2.3
+2021-06-25 19:38:03 status unpacked libapt-pkg6.0:armhf 2.2.3
+2021-06-25 19:38:03 status half-installed libapt-pkg6.0:armhf 2.2.3
+2021-06-25 19:38:03 status unpacked libapt-pkg6.0:armhf 2.2.3
+2021-06-25 19:38:04 startup packages configure
+2021-06-25 19:38:04 configure libapt-pkg6.0:armhf 2.2.3 <none>
+2021-06-25 19:38:04 status unpacked libapt-pkg6.0:armhf 2.2.3
+2021-06-25 19:38:04 status half-configured libapt-pkg6.0:armhf 2.2.3
+2021-06-25 19:38:04 status installed libapt-pkg6.0:armhf 2.2.3
+2021-06-25 19:38:05 startup packages configure
+2021-06-25 19:38:05 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:38:05 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:38:05 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:38:18 startup archives unpack
+2021-06-25 19:38:18 upgrade libattr1:armhf 1:2.4.48-6build1 1:2.4.48-6build1
+2021-06-25 19:38:18 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:38:18 status half-configured libattr1:armhf 1:2.4.48-6build1
+2021-06-25 19:38:18 status unpacked libattr1:armhf 1:2.4.48-6build1
+2021-06-25 19:38:18 status half-installed libattr1:armhf 1:2.4.48-6build1
+2021-06-25 19:38:18 status unpacked libattr1:armhf 1:2.4.48-6build1
+2021-06-25 19:38:19 startup packages configure
+2021-06-25 19:38:19 configure libattr1:armhf 1:2.4.48-6build1 <none>
+2021-06-25 19:38:19 status unpacked libattr1:armhf 1:2.4.48-6build1
+2021-06-25 19:38:19 status half-configured libattr1:armhf 1:2.4.48-6build1
+2021-06-25 19:38:19 status installed libattr1:armhf 1:2.4.48-6build1
+2021-06-25 19:38:21 startup packages configure
+2021-06-25 19:38:21 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:38:21 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:38:21 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:38:33 startup archives unpack
+2021-06-25 19:38:34 upgrade libaudit-common:all 1:3.0-2ubuntu1 1:3.0-2ubuntu1
+2021-06-25 19:38:34 status half-configured libaudit-common:all 1:3.0-2ubuntu1
+2021-06-25 19:38:34 status unpacked libaudit-common:all 1:3.0-2ubuntu1
+2021-06-25 19:38:34 status half-installed libaudit-common:all 1:3.0-2ubuntu1
+2021-06-25 19:38:34 status unpacked libaudit-common:all 1:3.0-2ubuntu1
+2021-06-25 19:38:35 startup packages configure
+2021-06-25 19:38:35 configure libaudit-common:all 1:3.0-2ubuntu1 <none>
+2021-06-25 19:38:35 status unpacked libaudit-common:all 1:3.0-2ubuntu1
+2021-06-25 19:38:35 status half-configured libaudit-common:all 1:3.0-2ubuntu1
+2021-06-25 19:38:35 status installed libaudit-common:all 1:3.0-2ubuntu1
+2021-06-25 19:38:36 startup packages configure
+2021-06-25 19:38:49 startup archives unpack
+2021-06-25 19:38:49 upgrade libaudit1:armhf 1:3.0-2ubuntu1 1:3.0-2ubuntu1
+2021-06-25 19:38:49 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:38:49 status half-configured libaudit1:armhf 1:3.0-2ubuntu1
+2021-06-25 19:38:49 status unpacked libaudit1:armhf 1:3.0-2ubuntu1
+2021-06-25 19:38:49 status half-installed libaudit1:armhf 1:3.0-2ubuntu1
+2021-06-25 19:38:49 status unpacked libaudit1:armhf 1:3.0-2ubuntu1
+2021-06-25 19:38:50 startup packages configure
+2021-06-25 19:38:50 configure libaudit1:armhf 1:3.0-2ubuntu1 <none>
+2021-06-25 19:38:50 status unpacked libaudit1:armhf 1:3.0-2ubuntu1
+2021-06-25 19:38:50 status half-configured libaudit1:armhf 1:3.0-2ubuntu1
+2021-06-25 19:38:50 status installed libaudit1:armhf 1:3.0-2ubuntu1
+2021-06-25 19:38:51 startup packages configure
+2021-06-25 19:38:51 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:38:51 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:38:51 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:04 startup archives unpack
+2021-06-25 19:39:04 upgrade libblkid1:armhf 2.36.1-7ubuntu2 2.36.1-7ubuntu2
+2021-06-25 19:39:04 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:04 status half-configured libblkid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:39:04 status unpacked libblkid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:39:04 status half-installed libblkid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:39:04 status unpacked libblkid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:39:05 startup packages configure
+2021-06-25 19:39:05 configure libblkid1:armhf 2.36.1-7ubuntu2 <none>
+2021-06-25 19:39:05 status unpacked libblkid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:39:05 status half-configured libblkid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:39:05 status installed libblkid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:39:06 startup packages configure
+2021-06-25 19:39:06 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:39:06 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:06 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:19 startup archives unpack
+2021-06-25 19:39:19 upgrade libbz2-1.0:armhf 1.0.8-4ubuntu3 1.0.8-4ubuntu3
+2021-06-25 19:39:19 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:19 status half-configured libbz2-1.0:armhf 1.0.8-4ubuntu3
+2021-06-25 19:39:19 status unpacked libbz2-1.0:armhf 1.0.8-4ubuntu3
+2021-06-25 19:39:19 status half-installed libbz2-1.0:armhf 1.0.8-4ubuntu3
+2021-06-25 19:39:19 status unpacked libbz2-1.0:armhf 1.0.8-4ubuntu3
+2021-06-25 19:39:21 startup packages configure
+2021-06-25 19:39:21 configure libbz2-1.0:armhf 1.0.8-4ubuntu3 <none>
+2021-06-25 19:39:21 status unpacked libbz2-1.0:armhf 1.0.8-4ubuntu3
+2021-06-25 19:39:21 status half-configured libbz2-1.0:armhf 1.0.8-4ubuntu3
+2021-06-25 19:39:21 status installed libbz2-1.0:armhf 1.0.8-4ubuntu3
+2021-06-25 19:39:22 startup packages configure
+2021-06-25 19:39:22 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:39:22 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:22 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:35 startup archives unpack
+2021-06-25 19:39:35 upgrade libc-bin:armhf 2.33-0ubuntu5 2.33-0ubuntu5
+2021-06-25 19:39:35 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:35 status unpacked libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:35 status half-installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:35 status unpacked libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:36 startup packages configure
+2021-06-25 19:39:36 configure libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:39:36 status unpacked libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:36 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:36 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:37 startup packages configure
+2021-06-25 19:39:50 startup archives unpack
+2021-06-25 19:39:50 upgrade libc6:armhf 2.33-0ubuntu5 2.33-0ubuntu5
+2021-06-25 19:39:50 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:50 status half-configured libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:39:50 status unpacked libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:39:50 status half-installed libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:39:51 status unpacked libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:39:52 startup packages configure
+2021-06-25 19:39:52 configure libc6:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:39:52 status unpacked libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:39:52 status half-configured libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:39:53 status installed libc6:armhf 2.33-0ubuntu5
+2021-06-25 19:39:55 startup packages configure
+2021-06-25 19:39:55 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:39:55 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:39:55 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:40:08 startup archives unpack
+2021-06-25 19:40:08 upgrade libcap-ng0:armhf 0.7.9-2.2build1 0.7.9-2.2build1
+2021-06-25 19:40:08 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:40:08 status half-configured libcap-ng0:armhf 0.7.9-2.2build1
+2021-06-25 19:40:08 status unpacked libcap-ng0:armhf 0.7.9-2.2build1
+2021-06-25 19:40:08 status half-installed libcap-ng0:armhf 0.7.9-2.2build1
+2021-06-25 19:40:08 status unpacked libcap-ng0:armhf 0.7.9-2.2build1
+2021-06-25 19:40:09 startup packages configure
+2021-06-25 19:40:09 configure libcap-ng0:armhf 0.7.9-2.2build1 <none>
+2021-06-25 19:40:09 status unpacked libcap-ng0:armhf 0.7.9-2.2build1
+2021-06-25 19:40:09 status half-configured libcap-ng0:armhf 0.7.9-2.2build1
+2021-06-25 19:40:09 status installed libcap-ng0:armhf 0.7.9-2.2build1
+2021-06-25 19:40:10 startup packages configure
+2021-06-25 19:40:10 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:40:10 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:40:10 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:40:23 startup archives unpack
+2021-06-25 19:40:23 upgrade libcap2:armhf 1:2.44-1build1 1:2.44-1build1
+2021-06-25 19:40:23 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:40:23 status half-configured libcap2:armhf 1:2.44-1build1
+2021-06-25 19:40:23 status unpacked libcap2:armhf 1:2.44-1build1
+2021-06-25 19:40:23 status half-installed libcap2:armhf 1:2.44-1build1
+2021-06-25 19:40:23 status unpacked libcap2:armhf 1:2.44-1build1
+2021-06-25 19:40:24 startup packages configure
+2021-06-25 19:40:24 configure libcap2:armhf 1:2.44-1build1 <none>
+2021-06-25 19:40:24 status unpacked libcap2:armhf 1:2.44-1build1
+2021-06-25 19:40:24 status half-configured libcap2:armhf 1:2.44-1build1
+2021-06-25 19:40:24 status installed libcap2:armhf 1:2.44-1build1
+2021-06-25 19:40:25 startup packages configure
+2021-06-25 19:40:25 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:40:25 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:40:25 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:40:38 startup archives unpack
+2021-06-25 19:40:38 upgrade libcom-err2:armhf 1.45.7-1ubuntu2 1.45.7-1ubuntu2
+2021-06-25 19:40:38 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:40:38 status half-configured libcom-err2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:40:38 status unpacked libcom-err2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:40:38 status half-installed libcom-err2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:40:38 status unpacked libcom-err2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:40:39 startup packages configure
+2021-06-25 19:40:39 configure libcom-err2:armhf 1.45.7-1ubuntu2 <none>
+2021-06-25 19:40:39 status unpacked libcom-err2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:40:39 status half-configured libcom-err2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:40:39 status installed libcom-err2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:40:39 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:40:39 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:40:39 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:40:52 startup archives unpack
+2021-06-25 19:40:52 upgrade libcrypt1:armhf 1:4.4.17-1ubuntu3 1:4.4.17-1ubuntu3
+2021-06-25 19:40:52 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:40:52 status half-configured libcrypt1:armhf 1:4.4.17-1ubuntu3
+2021-06-25 19:40:52 status unpacked libcrypt1:armhf 1:4.4.17-1ubuntu3
+2021-06-25 19:40:52 status half-installed libcrypt1:armhf 1:4.4.17-1ubuntu3
+2021-06-25 19:40:52 status unpacked libcrypt1:armhf 1:4.4.17-1ubuntu3
+2021-06-25 19:40:53 startup packages configure
+2021-06-25 19:40:53 configure libcrypt1:armhf 1:4.4.17-1ubuntu3 <none>
+2021-06-25 19:40:53 status unpacked libcrypt1:armhf 1:4.4.17-1ubuntu3
+2021-06-25 19:40:53 status half-configured libcrypt1:armhf 1:4.4.17-1ubuntu3
+2021-06-25 19:40:53 status installed libcrypt1:armhf 1:4.4.17-1ubuntu3
+2021-06-25 19:40:54 startup packages configure
+2021-06-25 19:40:54 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:40:54 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:40:54 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:41:07 startup archives unpack
+2021-06-25 19:41:07 upgrade libdb5.3:armhf 5.3.28+dfsg1-0.6ubuntu4 5.3.28+dfsg1-0.6ubuntu4
+2021-06-25 19:41:07 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:41:07 status half-configured libdb5.3:armhf 5.3.28+dfsg1-0.6ubuntu4
+2021-06-25 19:41:07 status unpacked libdb5.3:armhf 5.3.28+dfsg1-0.6ubuntu4
+2021-06-25 19:41:07 status half-installed libdb5.3:armhf 5.3.28+dfsg1-0.6ubuntu4
+2021-06-25 19:41:08 status unpacked libdb5.3:armhf 5.3.28+dfsg1-0.6ubuntu4
+2021-06-25 19:41:09 startup packages configure
+2021-06-25 19:41:09 configure libdb5.3:armhf 5.3.28+dfsg1-0.6ubuntu4 <none>
+2021-06-25 19:41:09 status unpacked libdb5.3:armhf 5.3.28+dfsg1-0.6ubuntu4
+2021-06-25 19:41:09 status half-configured libdb5.3:armhf 5.3.28+dfsg1-0.6ubuntu4
+2021-06-25 19:41:09 status installed libdb5.3:armhf 5.3.28+dfsg1-0.6ubuntu4
+2021-06-25 19:41:10 startup packages configure
+2021-06-25 19:41:10 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:41:10 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:41:10 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:41:23 startup archives unpack
+2021-06-25 19:41:23 upgrade libdebconfclient0:armhf 0.256ubuntu3 0.256ubuntu3
+2021-06-25 19:41:23 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:41:23 status half-configured libdebconfclient0:armhf 0.256ubuntu3
+2021-06-25 19:41:23 status unpacked libdebconfclient0:armhf 0.256ubuntu3
+2021-06-25 19:41:23 status half-installed libdebconfclient0:armhf 0.256ubuntu3
+2021-06-25 19:41:23 status unpacked libdebconfclient0:armhf 0.256ubuntu3
+2021-06-25 19:41:24 startup packages configure
+2021-06-25 19:41:24 configure libdebconfclient0:armhf 0.256ubuntu3 <none>
+2021-06-25 19:41:24 status unpacked libdebconfclient0:armhf 0.256ubuntu3
+2021-06-25 19:41:24 status half-configured libdebconfclient0:armhf 0.256ubuntu3
+2021-06-25 19:41:24 status installed libdebconfclient0:armhf 0.256ubuntu3
+2021-06-25 19:41:25 startup packages configure
+2021-06-25 19:41:25 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:41:25 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:41:25 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:41:38 startup archives unpack
+2021-06-25 19:41:38 upgrade libext2fs2:armhf 1.45.7-1ubuntu2 1.45.7-1ubuntu2
+2021-06-25 19:41:38 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:41:38 status half-configured libext2fs2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:41:38 status unpacked libext2fs2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:41:38 status half-installed libext2fs2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:41:38 status unpacked libext2fs2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:41:39 startup packages configure
+2021-06-25 19:41:39 configure libext2fs2:armhf 1.45.7-1ubuntu2 <none>
+2021-06-25 19:41:39 status unpacked libext2fs2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:41:39 status half-configured libext2fs2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:41:39 status installed libext2fs2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:41:39 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:41:39 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:41:39 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:41:52 startup archives unpack
+2021-06-25 19:41:52 upgrade libffi8ubuntu1:armhf 3.4~20200819gead65ca871-0ubuntu5 3.4~20200819gead65ca871-0ubuntu5
+2021-06-25 19:41:52 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:41:52 status half-configured libffi8ubuntu1:armhf 3.4~20200819gead65ca871-0ubuntu5
+2021-06-25 19:41:52 status unpacked libffi8ubuntu1:armhf 3.4~20200819gead65ca871-0ubuntu5
+2021-06-25 19:41:52 status half-installed libffi8ubuntu1:armhf 3.4~20200819gead65ca871-0ubuntu5
+2021-06-25 19:41:52 status unpacked libffi8ubuntu1:armhf 3.4~20200819gead65ca871-0ubuntu5
+2021-06-25 19:41:54 startup packages configure
+2021-06-25 19:41:54 configure libffi8ubuntu1:armhf 3.4~20200819gead65ca871-0ubuntu5 <none>
+2021-06-25 19:41:54 status unpacked libffi8ubuntu1:armhf 3.4~20200819gead65ca871-0ubuntu5
+2021-06-25 19:41:54 status half-configured libffi8ubuntu1:armhf 3.4~20200819gead65ca871-0ubuntu5
+2021-06-25 19:41:54 status installed libffi8ubuntu1:armhf 3.4~20200819gead65ca871-0ubuntu5
+2021-06-25 19:41:55 startup packages configure
+2021-06-25 19:41:55 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:41:55 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:41:55 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:42:08 startup archives unpack
+2021-06-25 19:42:08 upgrade libgcc-s1:armhf 11-20210417-1ubuntu1 11-20210417-1ubuntu1
+2021-06-25 19:42:08 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:42:08 status half-configured libgcc-s1:armhf 11-20210417-1ubuntu1
+2021-06-25 19:42:08 status unpacked libgcc-s1:armhf 11-20210417-1ubuntu1
+2021-06-25 19:42:08 status half-installed libgcc-s1:armhf 11-20210417-1ubuntu1
+2021-06-25 19:42:08 status unpacked libgcc-s1:armhf 11-20210417-1ubuntu1
+2021-06-25 19:42:09 startup packages configure
+2021-06-25 19:42:09 configure libgcc-s1:armhf 11-20210417-1ubuntu1 <none>
+2021-06-25 19:42:09 status unpacked libgcc-s1:armhf 11-20210417-1ubuntu1
+2021-06-25 19:42:09 status half-configured libgcc-s1:armhf 11-20210417-1ubuntu1
+2021-06-25 19:42:09 status installed libgcc-s1:armhf 11-20210417-1ubuntu1
+2021-06-25 19:42:10 startup packages configure
+2021-06-25 19:42:10 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:42:10 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:42:10 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:42:23 startup archives unpack
+2021-06-25 19:42:23 upgrade libgcrypt20:armhf 1.8.7-2ubuntu2 1.8.7-2ubuntu2
+2021-06-25 19:42:23 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:42:23 status half-configured libgcrypt20:armhf 1.8.7-2ubuntu2
+2021-06-25 19:42:23 status unpacked libgcrypt20:armhf 1.8.7-2ubuntu2
+2021-06-25 19:42:23 status half-installed libgcrypt20:armhf 1.8.7-2ubuntu2
+2021-06-25 19:42:23 status unpacked libgcrypt20:armhf 1.8.7-2ubuntu2
+2021-06-25 19:42:24 startup packages configure
+2021-06-25 19:42:24 configure libgcrypt20:armhf 1.8.7-2ubuntu2 <none>
+2021-06-25 19:42:24 status unpacked libgcrypt20:armhf 1.8.7-2ubuntu2
+2021-06-25 19:42:24 status half-configured libgcrypt20:armhf 1.8.7-2ubuntu2
+2021-06-25 19:42:24 status installed libgcrypt20:armhf 1.8.7-2ubuntu2
+2021-06-25 19:42:25 startup packages configure
+2021-06-25 19:42:25 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:42:25 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:42:25 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:42:38 startup archives unpack
+2021-06-25 19:42:38 upgrade libgmp10:armhf 2:6.2.1+dfsg-1ubuntu2 2:6.2.1+dfsg-1ubuntu2
+2021-06-25 19:42:38 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:42:38 status half-configured libgmp10:armhf 2:6.2.1+dfsg-1ubuntu2
+2021-06-25 19:42:38 status unpacked libgmp10:armhf 2:6.2.1+dfsg-1ubuntu2
+2021-06-25 19:42:38 status half-installed libgmp10:armhf 2:6.2.1+dfsg-1ubuntu2
+2021-06-25 19:42:38 status unpacked libgmp10:armhf 2:6.2.1+dfsg-1ubuntu2
+2021-06-25 19:42:40 startup packages configure
+2021-06-25 19:42:40 configure libgmp10:armhf 2:6.2.1+dfsg-1ubuntu2 <none>
+2021-06-25 19:42:40 status unpacked libgmp10:armhf 2:6.2.1+dfsg-1ubuntu2
+2021-06-25 19:42:40 status half-configured libgmp10:armhf 2:6.2.1+dfsg-1ubuntu2
+2021-06-25 19:42:40 status installed libgmp10:armhf 2:6.2.1+dfsg-1ubuntu2
+2021-06-25 19:42:41 startup packages configure
+2021-06-25 19:42:41 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:42:41 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:42:41 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:42:54 startup archives unpack
+2021-06-25 19:42:54 upgrade libgnutls30:armhf 3.7.1-3ubuntu1 3.7.1-3ubuntu1
+2021-06-25 19:42:54 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:42:54 status half-configured libgnutls30:armhf 3.7.1-3ubuntu1
+2021-06-25 19:42:54 status unpacked libgnutls30:armhf 3.7.1-3ubuntu1
+2021-06-25 19:42:54 status half-installed libgnutls30:armhf 3.7.1-3ubuntu1
+2021-06-25 19:42:54 status unpacked libgnutls30:armhf 3.7.1-3ubuntu1
+2021-06-25 19:42:55 startup packages configure
+2021-06-25 19:42:55 configure libgnutls30:armhf 3.7.1-3ubuntu1 <none>
+2021-06-25 19:42:55 status unpacked libgnutls30:armhf 3.7.1-3ubuntu1
+2021-06-25 19:42:55 status half-configured libgnutls30:armhf 3.7.1-3ubuntu1
+2021-06-25 19:42:55 status installed libgnutls30:armhf 3.7.1-3ubuntu1
+2021-06-25 19:42:56 startup packages configure
+2021-06-25 19:42:56 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:42:56 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:42:56 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:43:09 startup archives unpack
+2021-06-25 19:43:09 upgrade libgpg-error0:armhf 1.38-2build1 1.38-2build1
+2021-06-25 19:43:09 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:43:09 status half-configured libgpg-error0:armhf 1.38-2build1
+2021-06-25 19:43:09 status unpacked libgpg-error0:armhf 1.38-2build1
+2021-06-25 19:43:09 status half-installed libgpg-error0:armhf 1.38-2build1
+2021-06-25 19:43:09 status unpacked libgpg-error0:armhf 1.38-2build1
+2021-06-25 19:43:10 startup packages configure
+2021-06-25 19:43:10 configure libgpg-error0:armhf 1.38-2build1 <none>
+2021-06-25 19:43:10 status unpacked libgpg-error0:armhf 1.38-2build1
+2021-06-25 19:43:10 status half-configured libgpg-error0:armhf 1.38-2build1
+2021-06-25 19:43:10 status installed libgpg-error0:armhf 1.38-2build1
+2021-06-25 19:43:12 startup packages configure
+2021-06-25 19:43:12 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:43:12 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:43:12 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:43:25 startup archives unpack
+2021-06-25 19:43:25 upgrade libhogweed6:armhf 3.7-2.1ubuntu1 3.7-2.1ubuntu1
+2021-06-25 19:43:25 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:43:25 status half-configured libhogweed6:armhf 3.7-2.1ubuntu1
+2021-06-25 19:43:25 status unpacked libhogweed6:armhf 3.7-2.1ubuntu1
+2021-06-25 19:43:25 status half-installed libhogweed6:armhf 3.7-2.1ubuntu1
+2021-06-25 19:43:25 status unpacked libhogweed6:armhf 3.7-2.1ubuntu1
+2021-06-25 19:43:26 startup packages configure
+2021-06-25 19:43:26 configure libhogweed6:armhf 3.7-2.1ubuntu1 <none>
+2021-06-25 19:43:26 status unpacked libhogweed6:armhf 3.7-2.1ubuntu1
+2021-06-25 19:43:26 status half-configured libhogweed6:armhf 3.7-2.1ubuntu1
+2021-06-25 19:43:26 status installed libhogweed6:armhf 3.7-2.1ubuntu1
+2021-06-25 19:43:27 startup packages configure
+2021-06-25 19:43:27 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:43:27 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:43:27 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:43:40 startup archives unpack
+2021-06-25 19:43:40 upgrade libidn2-0:armhf 2.3.0-5 2.3.0-5
+2021-06-25 19:43:40 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:43:40 status half-configured libidn2-0:armhf 2.3.0-5
+2021-06-25 19:43:40 status unpacked libidn2-0:armhf 2.3.0-5
+2021-06-25 19:43:40 status half-installed libidn2-0:armhf 2.3.0-5
+2021-06-25 19:43:40 status unpacked libidn2-0:armhf 2.3.0-5
+2021-06-25 19:43:41 startup packages configure
+2021-06-25 19:43:41 configure libidn2-0:armhf 2.3.0-5 <none>
+2021-06-25 19:43:41 status unpacked libidn2-0:armhf 2.3.0-5
+2021-06-25 19:43:41 status half-configured libidn2-0:armhf 2.3.0-5
+2021-06-25 19:43:41 status installed libidn2-0:armhf 2.3.0-5
+2021-06-25 19:43:42 startup packages configure
+2021-06-25 19:43:42 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:43:42 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:43:42 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:43:55 startup archives unpack
+2021-06-25 19:43:55 upgrade liblz4-1:armhf 1.9.3-1build1 1.9.3-1build1
+2021-06-25 19:43:55 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:43:55 status half-configured liblz4-1:armhf 1.9.3-1build1
+2021-06-25 19:43:55 status unpacked liblz4-1:armhf 1.9.3-1build1
+2021-06-25 19:43:55 status half-installed liblz4-1:armhf 1.9.3-1build1
+2021-06-25 19:43:55 status unpacked liblz4-1:armhf 1.9.3-1build1
+2021-06-25 19:43:57 startup packages configure
+2021-06-25 19:43:57 configure liblz4-1:armhf 1.9.3-1build1 <none>
+2021-06-25 19:43:57 status unpacked liblz4-1:armhf 1.9.3-1build1
+2021-06-25 19:43:57 status half-configured liblz4-1:armhf 1.9.3-1build1
+2021-06-25 19:43:57 status installed liblz4-1:armhf 1.9.3-1build1
+2021-06-25 19:43:58 startup packages configure
+2021-06-25 19:43:58 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:43:58 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:43:58 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:44:11 startup archives unpack
+2021-06-25 19:44:11 upgrade liblzma5:armhf 5.2.5-1.0build2 5.2.5-1.0build2
+2021-06-25 19:44:11 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:44:11 status half-configured liblzma5:armhf 5.2.5-1.0build2
+2021-06-25 19:44:11 status unpacked liblzma5:armhf 5.2.5-1.0build2
+2021-06-25 19:44:11 status half-installed liblzma5:armhf 5.2.5-1.0build2
+2021-06-25 19:44:11 status unpacked liblzma5:armhf 5.2.5-1.0build2
+2021-06-25 19:44:12 startup packages configure
+2021-06-25 19:44:12 configure liblzma5:armhf 5.2.5-1.0build2 <none>
+2021-06-25 19:44:12 status unpacked liblzma5:armhf 5.2.5-1.0build2
+2021-06-25 19:44:12 status half-configured liblzma5:armhf 5.2.5-1.0build2
+2021-06-25 19:44:12 status installed liblzma5:armhf 5.2.5-1.0build2
+2021-06-25 19:44:13 startup packages configure
+2021-06-25 19:44:13 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:44:13 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:44:13 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:44:26 startup archives unpack
+2021-06-25 19:44:26 upgrade libmount1:armhf 2.36.1-7ubuntu2 2.36.1-7ubuntu2
+2021-06-25 19:44:26 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:44:26 status half-configured libmount1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:44:26 status unpacked libmount1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:44:26 status half-installed libmount1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:44:26 status unpacked libmount1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:44:28 startup packages configure
+2021-06-25 19:44:28 configure libmount1:armhf 2.36.1-7ubuntu2 <none>
+2021-06-25 19:44:28 status unpacked libmount1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:44:28 status half-configured libmount1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:44:28 status installed libmount1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:44:29 startup packages configure
+2021-06-25 19:44:29 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:44:29 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:44:29 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:44:42 startup archives unpack
+2021-06-25 19:44:42 upgrade libncurses6:armhf 6.2+20201114-2build1 6.2+20201114-2build1
+2021-06-25 19:44:42 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:44:42 status half-configured libncurses6:armhf 6.2+20201114-2build1
+2021-06-25 19:44:42 status unpacked libncurses6:armhf 6.2+20201114-2build1
+2021-06-25 19:44:42 status half-installed libncurses6:armhf 6.2+20201114-2build1
+2021-06-25 19:44:42 status unpacked libncurses6:armhf 6.2+20201114-2build1
+2021-06-25 19:44:43 startup packages configure
+2021-06-25 19:44:43 configure libncurses6:armhf 6.2+20201114-2build1 <none>
+2021-06-25 19:44:43 status unpacked libncurses6:armhf 6.2+20201114-2build1
+2021-06-25 19:44:43 status half-configured libncurses6:armhf 6.2+20201114-2build1
+2021-06-25 19:44:43 status installed libncurses6:armhf 6.2+20201114-2build1
+2021-06-25 19:44:43 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:44:43 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:44:43 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:44:56 startup archives unpack
+2021-06-25 19:44:56 upgrade libncursesw6:armhf 6.2+20201114-2build1 6.2+20201114-2build1
+2021-06-25 19:44:56 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:44:56 status half-configured libncursesw6:armhf 6.2+20201114-2build1
+2021-06-25 19:44:56 status unpacked libncursesw6:armhf 6.2+20201114-2build1
+2021-06-25 19:44:56 status half-installed libncursesw6:armhf 6.2+20201114-2build1
+2021-06-25 19:44:56 status unpacked libncursesw6:armhf 6.2+20201114-2build1
+2021-06-25 19:44:58 startup packages configure
+2021-06-25 19:44:58 configure libncursesw6:armhf 6.2+20201114-2build1 <none>
+2021-06-25 19:44:58 status unpacked libncursesw6:armhf 6.2+20201114-2build1
+2021-06-25 19:44:58 status half-configured libncursesw6:armhf 6.2+20201114-2build1
+2021-06-25 19:44:58 status installed libncursesw6:armhf 6.2+20201114-2build1
+2021-06-25 19:44:58 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:44:58 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:44:58 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:45:11 startup archives unpack
+2021-06-25 19:45:11 upgrade libnettle8:armhf 3.7-2.1ubuntu1 3.7-2.1ubuntu1
+2021-06-25 19:45:11 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:45:11 status half-configured libnettle8:armhf 3.7-2.1ubuntu1
+2021-06-25 19:45:11 status unpacked libnettle8:armhf 3.7-2.1ubuntu1
+2021-06-25 19:45:11 status half-installed libnettle8:armhf 3.7-2.1ubuntu1
+2021-06-25 19:45:11 status unpacked libnettle8:armhf 3.7-2.1ubuntu1
+2021-06-25 19:45:12 startup packages configure
+2021-06-25 19:45:12 configure libnettle8:armhf 3.7-2.1ubuntu1 <none>
+2021-06-25 19:45:12 status unpacked libnettle8:armhf 3.7-2.1ubuntu1
+2021-06-25 19:45:12 status half-configured libnettle8:armhf 3.7-2.1ubuntu1
+2021-06-25 19:45:12 status installed libnettle8:armhf 3.7-2.1ubuntu1
+2021-06-25 19:45:13 startup packages configure
+2021-06-25 19:45:13 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:45:13 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:45:13 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:45:26 startup archives unpack
+2021-06-25 19:45:26 upgrade libp11-kit0:armhf 0.23.22-1 0.23.22-1
+2021-06-25 19:45:26 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:45:26 status half-configured libp11-kit0:armhf 0.23.22-1
+2021-06-25 19:45:26 status unpacked libp11-kit0:armhf 0.23.22-1
+2021-06-25 19:45:26 status half-installed libp11-kit0:armhf 0.23.22-1
+2021-06-25 19:45:26 status unpacked libp11-kit0:armhf 0.23.22-1
+2021-06-25 19:45:27 startup packages configure
+2021-06-25 19:45:27 configure libp11-kit0:armhf 0.23.22-1 <none>
+2021-06-25 19:45:27 status unpacked libp11-kit0:armhf 0.23.22-1
+2021-06-25 19:45:27 status half-configured libp11-kit0:armhf 0.23.22-1
+2021-06-25 19:45:27 status installed libp11-kit0:armhf 0.23.22-1
+2021-06-25 19:45:28 startup packages configure
+2021-06-25 19:45:28 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:45:28 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:45:28 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:45:41 startup archives unpack
+2021-06-25 19:45:41 upgrade libpam-modules:armhf 1.3.1-5ubuntu6 1.3.1-5ubuntu6
+2021-06-25 19:45:41 status half-configured libpam-modules:armhf 1.3.1-5ubuntu6
+2021-06-25 19:45:41 status unpacked libpam-modules:armhf 1.3.1-5ubuntu6
+2021-06-25 19:45:41 status half-installed libpam-modules:armhf 1.3.1-5ubuntu6
+2021-06-25 19:45:41 status unpacked libpam-modules:armhf 1.3.1-5ubuntu6
+2021-06-25 19:45:43 startup packages configure
+2021-06-25 19:45:43 configure libpam-modules:armhf 1.3.1-5ubuntu6 <none>
+2021-06-25 19:45:43 status unpacked libpam-modules:armhf 1.3.1-5ubuntu6
+2021-06-25 19:45:43 status half-configured libpam-modules:armhf 1.3.1-5ubuntu6
+2021-06-25 19:45:43 status installed libpam-modules:armhf 1.3.1-5ubuntu6
+2021-06-25 19:45:44 startup packages configure
+2021-06-25 19:45:57 startup archives unpack
+2021-06-25 19:45:57 upgrade libpam-modules-bin:armhf 1.3.1-5ubuntu6 1.3.1-5ubuntu6
+2021-06-25 19:45:57 status half-configured libpam-modules-bin:armhf 1.3.1-5ubuntu6
+2021-06-25 19:45:57 status unpacked libpam-modules-bin:armhf 1.3.1-5ubuntu6
+2021-06-25 19:45:57 status half-installed libpam-modules-bin:armhf 1.3.1-5ubuntu6
+2021-06-25 19:45:57 status unpacked libpam-modules-bin:armhf 1.3.1-5ubuntu6
+2021-06-25 19:45:58 startup packages configure
+2021-06-25 19:45:58 configure libpam-modules-bin:armhf 1.3.1-5ubuntu6 <none>
+2021-06-25 19:45:58 status unpacked libpam-modules-bin:armhf 1.3.1-5ubuntu6
+2021-06-25 19:45:58 status half-configured libpam-modules-bin:armhf 1.3.1-5ubuntu6
+2021-06-25 19:45:58 status installed libpam-modules-bin:armhf 1.3.1-5ubuntu6
+2021-06-25 19:45:59 startup packages configure
+2021-06-25 19:46:12 startup archives unpack
+2021-06-25 19:46:12 upgrade libpam-runtime:all 1.3.1-5ubuntu6 1.3.1-5ubuntu6
+2021-06-25 19:46:12 status half-configured libpam-runtime:all 1.3.1-5ubuntu6
+2021-06-25 19:46:12 status unpacked libpam-runtime:all 1.3.1-5ubuntu6
+2021-06-25 19:46:12 status half-installed libpam-runtime:all 1.3.1-5ubuntu6
+2021-06-25 19:46:12 status unpacked libpam-runtime:all 1.3.1-5ubuntu6
+2021-06-25 19:46:13 startup packages configure
+2021-06-25 19:46:13 configure libpam-runtime:all 1.3.1-5ubuntu6 <none>
+2021-06-25 19:46:13 status unpacked libpam-runtime:all 1.3.1-5ubuntu6
+2021-06-25 19:46:13 status half-configured libpam-runtime:all 1.3.1-5ubuntu6
+2021-06-25 19:46:13 status installed libpam-runtime:all 1.3.1-5ubuntu6
+2021-06-25 19:46:14 startup packages configure
+2021-06-25 19:46:27 startup archives unpack
+2021-06-25 19:46:27 upgrade libpam0g:armhf 1.3.1-5ubuntu6 1.3.1-5ubuntu6
+2021-06-25 19:46:27 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:46:27 status half-configured libpam0g:armhf 1.3.1-5ubuntu6
+2021-06-25 19:46:27 status unpacked libpam0g:armhf 1.3.1-5ubuntu6
+2021-06-25 19:46:27 status half-installed libpam0g:armhf 1.3.1-5ubuntu6
+2021-06-25 19:46:27 status unpacked libpam0g:armhf 1.3.1-5ubuntu6
+2021-06-25 19:46:29 startup packages configure
+2021-06-25 19:46:29 configure libpam0g:armhf 1.3.1-5ubuntu6 <none>
+2021-06-25 19:46:29 status unpacked libpam0g:armhf 1.3.1-5ubuntu6
+2021-06-25 19:46:29 status half-configured libpam0g:armhf 1.3.1-5ubuntu6
+2021-06-25 19:46:29 status installed libpam0g:armhf 1.3.1-5ubuntu6
+2021-06-25 19:46:30 startup packages configure
+2021-06-25 19:46:30 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:46:30 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:46:30 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:46:43 startup archives unpack
+2021-06-25 19:46:43 upgrade libpcre2-8-0:armhf 10.36-2ubuntu5 10.36-2ubuntu5
+2021-06-25 19:46:43 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:46:43 status half-configured libpcre2-8-0:armhf 10.36-2ubuntu5
+2021-06-25 19:46:43 status unpacked libpcre2-8-0:armhf 10.36-2ubuntu5
+2021-06-25 19:46:43 status half-installed libpcre2-8-0:armhf 10.36-2ubuntu5
+2021-06-25 19:46:43 status unpacked libpcre2-8-0:armhf 10.36-2ubuntu5
+2021-06-25 19:46:44 startup packages configure
+2021-06-25 19:46:44 configure libpcre2-8-0:armhf 10.36-2ubuntu5 <none>
+2021-06-25 19:46:44 status unpacked libpcre2-8-0:armhf 10.36-2ubuntu5
+2021-06-25 19:46:44 status half-configured libpcre2-8-0:armhf 10.36-2ubuntu5
+2021-06-25 19:46:44 status installed libpcre2-8-0:armhf 10.36-2ubuntu5
+2021-06-25 19:46:45 startup packages configure
+2021-06-25 19:46:45 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:46:45 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:46:45 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:46:58 startup archives unpack
+2021-06-25 19:46:58 upgrade libpcre3:armhf 2:8.39-13build3 2:8.39-13build3
+2021-06-25 19:46:58 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:46:58 status half-configured libpcre3:armhf 2:8.39-13build3
+2021-06-25 19:46:58 status unpacked libpcre3:armhf 2:8.39-13build3
+2021-06-25 19:46:58 status half-installed libpcre3:armhf 2:8.39-13build3
+2021-06-25 19:46:59 status unpacked libpcre3:armhf 2:8.39-13build3
+2021-06-25 19:47:00 startup packages configure
+2021-06-25 19:47:00 configure libpcre3:armhf 2:8.39-13build3 <none>
+2021-06-25 19:47:00 status unpacked libpcre3:armhf 2:8.39-13build3
+2021-06-25 19:47:00 status half-configured libpcre3:armhf 2:8.39-13build3
+2021-06-25 19:47:00 status installed libpcre3:armhf 2:8.39-13build3
+2021-06-25 19:47:01 startup packages configure
+2021-06-25 19:47:01 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:47:01 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:47:01 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:47:14 startup archives unpack
+2021-06-25 19:47:14 upgrade libprocps8:armhf 2:3.3.16-5ubuntu3 2:3.3.16-5ubuntu3
+2021-06-25 19:47:14 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:47:14 status half-configured libprocps8:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:47:14 status unpacked libprocps8:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:47:14 status half-installed libprocps8:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:47:14 status unpacked libprocps8:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:47:15 startup packages configure
+2021-06-25 19:47:15 configure libprocps8:armhf 2:3.3.16-5ubuntu3 <none>
+2021-06-25 19:47:15 status unpacked libprocps8:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:47:15 status half-configured libprocps8:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:47:15 status installed libprocps8:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:47:15 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:47:15 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:47:15 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:47:28 startup archives unpack
+2021-06-25 19:47:28 upgrade libseccomp2:armhf 2.5.1-1ubuntu1 2.5.1-1ubuntu1
+2021-06-25 19:47:28 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:47:28 status half-configured libseccomp2:armhf 2.5.1-1ubuntu1
+2021-06-25 19:47:28 status unpacked libseccomp2:armhf 2.5.1-1ubuntu1
+2021-06-25 19:47:28 status half-installed libseccomp2:armhf 2.5.1-1ubuntu1
+2021-06-25 19:47:28 status unpacked libseccomp2:armhf 2.5.1-1ubuntu1
+2021-06-25 19:47:29 startup packages configure
+2021-06-25 19:47:29 configure libseccomp2:armhf 2.5.1-1ubuntu1 <none>
+2021-06-25 19:47:29 status unpacked libseccomp2:armhf 2.5.1-1ubuntu1
+2021-06-25 19:47:29 status half-configured libseccomp2:armhf 2.5.1-1ubuntu1
+2021-06-25 19:47:29 status installed libseccomp2:armhf 2.5.1-1ubuntu1
+2021-06-25 19:47:31 startup packages configure
+2021-06-25 19:47:31 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:47:31 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:47:31 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:47:44 startup archives unpack
+2021-06-25 19:47:44 upgrade libselinux1:armhf 3.1-3build1 3.1-3build1
+2021-06-25 19:47:44 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:47:44 status half-configured libselinux1:armhf 3.1-3build1
+2021-06-25 19:47:44 status unpacked libselinux1:armhf 3.1-3build1
+2021-06-25 19:47:44 status half-installed libselinux1:armhf 3.1-3build1
+2021-06-25 19:47:44 status unpacked libselinux1:armhf 3.1-3build1
+2021-06-25 19:47:45 startup packages configure
+2021-06-25 19:47:45 configure libselinux1:armhf 3.1-3build1 <none>
+2021-06-25 19:47:45 status unpacked libselinux1:armhf 3.1-3build1
+2021-06-25 19:47:45 status half-configured libselinux1:armhf 3.1-3build1
+2021-06-25 19:47:45 status installed libselinux1:armhf 3.1-3build1
+2021-06-25 19:47:46 startup packages configure
+2021-06-25 19:47:46 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:47:46 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:47:46 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:47:59 startup archives unpack
+2021-06-25 19:47:59 upgrade libsemanage-common:all 3.1-1ubuntu1 3.1-1ubuntu1
+2021-06-25 19:47:59 status half-configured libsemanage-common:all 3.1-1ubuntu1
+2021-06-25 19:47:59 status unpacked libsemanage-common:all 3.1-1ubuntu1
+2021-06-25 19:47:59 status half-installed libsemanage-common:all 3.1-1ubuntu1
+2021-06-25 19:47:59 status unpacked libsemanage-common:all 3.1-1ubuntu1
+2021-06-25 19:48:00 startup packages configure
+2021-06-25 19:48:00 configure libsemanage-common:all 3.1-1ubuntu1 <none>
+2021-06-25 19:48:00 status unpacked libsemanage-common:all 3.1-1ubuntu1
+2021-06-25 19:48:00 status half-configured libsemanage-common:all 3.1-1ubuntu1
+2021-06-25 19:48:00 status installed libsemanage-common:all 3.1-1ubuntu1
+2021-06-25 19:48:01 startup packages configure
+2021-06-25 19:48:14 startup archives unpack
+2021-06-25 19:48:14 upgrade libsemanage1:armhf 3.1-1ubuntu1 3.1-1ubuntu1
+2021-06-25 19:48:14 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:48:14 status half-configured libsemanage1:armhf 3.1-1ubuntu1
+2021-06-25 19:48:14 status unpacked libsemanage1:armhf 3.1-1ubuntu1
+2021-06-25 19:48:14 status half-installed libsemanage1:armhf 3.1-1ubuntu1
+2021-06-25 19:48:14 status unpacked libsemanage1:armhf 3.1-1ubuntu1
+2021-06-25 19:48:15 startup packages configure
+2021-06-25 19:48:15 configure libsemanage1:armhf 3.1-1ubuntu1 <none>
+2021-06-25 19:48:15 status unpacked libsemanage1:armhf 3.1-1ubuntu1
+2021-06-25 19:48:15 status half-configured libsemanage1:armhf 3.1-1ubuntu1
+2021-06-25 19:48:15 status installed libsemanage1:armhf 3.1-1ubuntu1
+2021-06-25 19:48:17 startup packages configure
+2021-06-25 19:48:17 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:48:17 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:48:17 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:48:30 startup archives unpack
+2021-06-25 19:48:30 upgrade libsepol1:armhf 3.1-1ubuntu1 3.1-1ubuntu1
+2021-06-25 19:48:30 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:48:30 status half-configured libsepol1:armhf 3.1-1ubuntu1
+2021-06-25 19:48:30 status unpacked libsepol1:armhf 3.1-1ubuntu1
+2021-06-25 19:48:30 status half-installed libsepol1:armhf 3.1-1ubuntu1
+2021-06-25 19:48:30 status unpacked libsepol1:armhf 3.1-1ubuntu1
+2021-06-25 19:48:31 startup packages configure
+2021-06-25 19:48:31 configure libsepol1:armhf 3.1-1ubuntu1 <none>
+2021-06-25 19:48:31 status unpacked libsepol1:armhf 3.1-1ubuntu1
+2021-06-25 19:48:31 status half-configured libsepol1:armhf 3.1-1ubuntu1
+2021-06-25 19:48:31 status installed libsepol1:armhf 3.1-1ubuntu1
+2021-06-25 19:48:32 startup packages configure
+2021-06-25 19:48:32 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:48:32 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:48:32 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:48:45 startup archives unpack
+2021-06-25 19:48:45 upgrade libsmartcols1:armhf 2.36.1-7ubuntu2 2.36.1-7ubuntu2
+2021-06-25 19:48:45 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:48:45 status half-configured libsmartcols1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:48:45 status unpacked libsmartcols1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:48:45 status half-installed libsmartcols1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:48:45 status unpacked libsmartcols1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:48:46 startup packages configure
+2021-06-25 19:48:46 configure libsmartcols1:armhf 2.36.1-7ubuntu2 <none>
+2021-06-25 19:48:46 status unpacked libsmartcols1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:48:46 status half-configured libsmartcols1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:48:46 status installed libsmartcols1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:48:47 startup packages configure
+2021-06-25 19:48:47 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:48:47 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:48:47 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:49:00 startup archives unpack
+2021-06-25 19:49:00 upgrade libss2:armhf 1.45.7-1ubuntu2 1.45.7-1ubuntu2
+2021-06-25 19:49:00 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:49:00 status half-configured libss2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:49:00 status unpacked libss2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:49:00 status half-installed libss2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:49:00 status unpacked libss2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:49:02 startup packages configure
+2021-06-25 19:49:02 configure libss2:armhf 1.45.7-1ubuntu2 <none>
+2021-06-25 19:49:02 status unpacked libss2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:49:02 status half-configured libss2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:49:02 status installed libss2:armhf 1.45.7-1ubuntu2
+2021-06-25 19:49:02 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:49:02 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:49:02 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:49:15 startup archives unpack
+2021-06-25 19:49:15 upgrade libstdc++6:armhf 11-20210417-1ubuntu1 11-20210417-1ubuntu1
+2021-06-25 19:49:15 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:49:15 status half-configured libstdc++6:armhf 11-20210417-1ubuntu1
+2021-06-25 19:49:15 status unpacked libstdc++6:armhf 11-20210417-1ubuntu1
+2021-06-25 19:49:15 status half-installed libstdc++6:armhf 11-20210417-1ubuntu1
+2021-06-25 19:49:15 status unpacked libstdc++6:armhf 11-20210417-1ubuntu1
+2021-06-25 19:49:16 startup packages configure
+2021-06-25 19:49:16 configure libstdc++6:armhf 11-20210417-1ubuntu1 <none>
+2021-06-25 19:49:16 status unpacked libstdc++6:armhf 11-20210417-1ubuntu1
+2021-06-25 19:49:16 status half-configured libstdc++6:armhf 11-20210417-1ubuntu1
+2021-06-25 19:49:16 status installed libstdc++6:armhf 11-20210417-1ubuntu1
+2021-06-25 19:49:18 startup packages configure
+2021-06-25 19:49:18 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:49:18 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:49:18 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:49:30 startup archives unpack
+2021-06-25 19:49:30 upgrade libsystemd0:armhf 247.3-3ubuntu3 247.3-3ubuntu3
+2021-06-25 19:49:30 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:49:30 status half-configured libsystemd0:armhf 247.3-3ubuntu3
+2021-06-25 19:49:30 status unpacked libsystemd0:armhf 247.3-3ubuntu3
+2021-06-25 19:49:30 status half-installed libsystemd0:armhf 247.3-3ubuntu3
+2021-06-25 19:49:30 status unpacked libsystemd0:armhf 247.3-3ubuntu3
+2021-06-25 19:49:32 startup packages configure
+2021-06-25 19:49:32 configure libsystemd0:armhf 247.3-3ubuntu3 <none>
+2021-06-25 19:49:32 status unpacked libsystemd0:armhf 247.3-3ubuntu3
+2021-06-25 19:49:32 status half-configured libsystemd0:armhf 247.3-3ubuntu3
+2021-06-25 19:49:32 status installed libsystemd0:armhf 247.3-3ubuntu3
+2021-06-25 19:49:33 startup packages configure
+2021-06-25 19:49:33 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:49:33 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:49:33 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:49:46 startup archives unpack
+2021-06-25 19:49:46 upgrade libtasn1-6:armhf 4.16.0-2 4.16.0-2
+2021-06-25 19:49:46 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:49:46 status half-configured libtasn1-6:armhf 4.16.0-2
+2021-06-25 19:49:46 status unpacked libtasn1-6:armhf 4.16.0-2
+2021-06-25 19:49:46 status half-installed libtasn1-6:armhf 4.16.0-2
+2021-06-25 19:49:46 status unpacked libtasn1-6:armhf 4.16.0-2
+2021-06-25 19:49:47 startup packages configure
+2021-06-25 19:49:47 configure libtasn1-6:armhf 4.16.0-2 <none>
+2021-06-25 19:49:47 status unpacked libtasn1-6:armhf 4.16.0-2
+2021-06-25 19:49:47 status half-configured libtasn1-6:armhf 4.16.0-2
+2021-06-25 19:49:47 status installed libtasn1-6:armhf 4.16.0-2
+2021-06-25 19:49:48 startup packages configure
+2021-06-25 19:49:48 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:49:48 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:49:48 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:50:01 startup archives unpack
+2021-06-25 19:50:01 upgrade libtinfo6:armhf 6.2+20201114-2build1 6.2+20201114-2build1
+2021-06-25 19:50:01 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:50:01 status half-configured libtinfo6:armhf 6.2+20201114-2build1
+2021-06-25 19:50:01 status unpacked libtinfo6:armhf 6.2+20201114-2build1
+2021-06-25 19:50:01 status half-installed libtinfo6:armhf 6.2+20201114-2build1
+2021-06-25 19:50:01 status unpacked libtinfo6:armhf 6.2+20201114-2build1
+2021-06-25 19:50:02 startup packages configure
+2021-06-25 19:50:02 configure libtinfo6:armhf 6.2+20201114-2build1 <none>
+2021-06-25 19:50:02 status unpacked libtinfo6:armhf 6.2+20201114-2build1
+2021-06-25 19:50:02 status half-configured libtinfo6:armhf 6.2+20201114-2build1
+2021-06-25 19:50:02 status installed libtinfo6:armhf 6.2+20201114-2build1
+2021-06-25 19:50:03 startup packages configure
+2021-06-25 19:50:03 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:50:03 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:50:03 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:50:16 startup archives unpack
+2021-06-25 19:50:16 upgrade libudev1:armhf 247.3-3ubuntu3 247.3-3ubuntu3
+2021-06-25 19:50:16 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:50:16 status half-configured libudev1:armhf 247.3-3ubuntu3
+2021-06-25 19:50:16 status unpacked libudev1:armhf 247.3-3ubuntu3
+2021-06-25 19:50:16 status half-installed libudev1:armhf 247.3-3ubuntu3
+2021-06-25 19:50:16 status unpacked libudev1:armhf 247.3-3ubuntu3
+2021-06-25 19:50:17 startup packages configure
+2021-06-25 19:50:17 configure libudev1:armhf 247.3-3ubuntu3 <none>
+2021-06-25 19:50:17 status unpacked libudev1:armhf 247.3-3ubuntu3
+2021-06-25 19:50:18 status half-configured libudev1:armhf 247.3-3ubuntu3
+2021-06-25 19:50:18 status installed libudev1:armhf 247.3-3ubuntu3
+2021-06-25 19:50:19 startup packages configure
+2021-06-25 19:50:19 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:50:19 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:50:19 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:50:32 startup archives unpack
+2021-06-25 19:50:32 upgrade libunistring2:armhf 0.9.10-4 0.9.10-4
+2021-06-25 19:50:32 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:50:32 status half-configured libunistring2:armhf 0.9.10-4
+2021-06-25 19:50:32 status unpacked libunistring2:armhf 0.9.10-4
+2021-06-25 19:50:32 status half-installed libunistring2:armhf 0.9.10-4
+2021-06-25 19:50:32 status unpacked libunistring2:armhf 0.9.10-4
+2021-06-25 19:50:33 startup packages configure
+2021-06-25 19:50:33 configure libunistring2:armhf 0.9.10-4 <none>
+2021-06-25 19:50:33 status unpacked libunistring2:armhf 0.9.10-4
+2021-06-25 19:50:33 status half-configured libunistring2:armhf 0.9.10-4
+2021-06-25 19:50:33 status installed libunistring2:armhf 0.9.10-4
+2021-06-25 19:50:34 startup packages configure
+2021-06-25 19:50:34 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:50:34 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:50:34 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:50:47 startup archives unpack
+2021-06-25 19:50:47 upgrade libuuid1:armhf 2.36.1-7ubuntu2 2.36.1-7ubuntu2
+2021-06-25 19:50:47 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:50:47 status half-configured libuuid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:50:47 status unpacked libuuid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:50:47 status half-installed libuuid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:50:47 status unpacked libuuid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:50:48 startup packages configure
+2021-06-25 19:50:48 configure libuuid1:armhf 2.36.1-7ubuntu2 <none>
+2021-06-25 19:50:48 status unpacked libuuid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:50:48 status half-configured libuuid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:50:48 status installed libuuid1:armhf 2.36.1-7ubuntu2
+2021-06-25 19:50:49 startup packages configure
+2021-06-25 19:50:49 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:50:49 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:50:49 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:51:02 startup archives unpack
+2021-06-25 19:51:02 upgrade libxxhash0:armhf 0.8.0-2 0.8.0-2
+2021-06-25 19:51:02 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:51:02 status half-configured libxxhash0:armhf 0.8.0-2
+2021-06-25 19:51:02 status unpacked libxxhash0:armhf 0.8.0-2
+2021-06-25 19:51:02 status half-installed libxxhash0:armhf 0.8.0-2
+2021-06-25 19:51:02 status unpacked libxxhash0:armhf 0.8.0-2
+2021-06-25 19:51:03 startup packages configure
+2021-06-25 19:51:03 configure libxxhash0:armhf 0.8.0-2 <none>
+2021-06-25 19:51:03 status unpacked libxxhash0:armhf 0.8.0-2
+2021-06-25 19:51:03 status half-configured libxxhash0:armhf 0.8.0-2
+2021-06-25 19:51:03 status installed libxxhash0:armhf 0.8.0-2
+2021-06-25 19:51:04 startup packages configure
+2021-06-25 19:51:04 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:51:04 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:51:05 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:51:17 startup archives unpack
+2021-06-25 19:51:17 upgrade libzstd1:armhf 1.4.8+dfsg-2build2 1.4.8+dfsg-2build2
+2021-06-25 19:51:17 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:51:17 status half-configured libzstd1:armhf 1.4.8+dfsg-2build2
+2021-06-25 19:51:17 status unpacked libzstd1:armhf 1.4.8+dfsg-2build2
+2021-06-25 19:51:17 status half-installed libzstd1:armhf 1.4.8+dfsg-2build2
+2021-06-25 19:51:18 status unpacked libzstd1:armhf 1.4.8+dfsg-2build2
+2021-06-25 19:51:19 startup packages configure
+2021-06-25 19:51:19 configure libzstd1:armhf 1.4.8+dfsg-2build2 <none>
+2021-06-25 19:51:19 status unpacked libzstd1:armhf 1.4.8+dfsg-2build2
+2021-06-25 19:51:19 status half-configured libzstd1:armhf 1.4.8+dfsg-2build2
+2021-06-25 19:51:19 status installed libzstd1:armhf 1.4.8+dfsg-2build2
+2021-06-25 19:51:20 startup packages configure
+2021-06-25 19:51:20 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:51:20 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:51:20 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:51:33 startup archives unpack
+2021-06-25 19:51:33 upgrade login:armhf 1:4.8.1-1ubuntu8 1:4.8.1-1ubuntu8
+2021-06-25 19:51:33 status half-configured login:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:51:33 status unpacked login:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:51:33 status half-installed login:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:51:33 status unpacked login:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:51:34 startup packages configure
+2021-06-25 19:51:34 configure login:armhf 1:4.8.1-1ubuntu8 <none>
+2021-06-25 19:51:34 status unpacked login:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:51:34 status half-configured login:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:51:34 status installed login:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:51:35 startup packages configure
+2021-06-25 19:51:48 startup archives unpack
+2021-06-25 19:51:48 upgrade logsave:armhf 1.45.7-1ubuntu2 1.45.7-1ubuntu2
+2021-06-25 19:51:48 status half-configured logsave:armhf 1.45.7-1ubuntu2
+2021-06-25 19:51:48 status unpacked logsave:armhf 1.45.7-1ubuntu2
+2021-06-25 19:51:48 status half-installed logsave:armhf 1.45.7-1ubuntu2
+2021-06-25 19:51:48 status unpacked logsave:armhf 1.45.7-1ubuntu2
+2021-06-25 19:51:49 startup packages configure
+2021-06-25 19:51:49 configure logsave:armhf 1.45.7-1ubuntu2 <none>
+2021-06-25 19:51:49 status unpacked logsave:armhf 1.45.7-1ubuntu2
+2021-06-25 19:51:49 status half-configured logsave:armhf 1.45.7-1ubuntu2
+2021-06-25 19:51:49 status installed logsave:armhf 1.45.7-1ubuntu2
+2021-06-25 19:52:02 startup archives unpack
+2021-06-25 19:52:02 upgrade lsb-base:all 11.1.0ubuntu2 11.1.0ubuntu2
+2021-06-25 19:52:02 status half-configured lsb-base:all 11.1.0ubuntu2
+2021-06-25 19:52:02 status unpacked lsb-base:all 11.1.0ubuntu2
+2021-06-25 19:52:02 status half-installed lsb-base:all 11.1.0ubuntu2
+2021-06-25 19:52:02 status unpacked lsb-base:all 11.1.0ubuntu2
+2021-06-25 19:52:03 startup packages configure
+2021-06-25 19:52:03 configure lsb-base:all 11.1.0ubuntu2 <none>
+2021-06-25 19:52:03 status unpacked lsb-base:all 11.1.0ubuntu2
+2021-06-25 19:52:03 status half-configured lsb-base:all 11.1.0ubuntu2
+2021-06-25 19:52:03 status installed lsb-base:all 11.1.0ubuntu2
+2021-06-25 19:52:05 startup packages configure
+2021-06-25 19:52:18 startup archives unpack
+2021-06-25 19:52:18 upgrade mawk:armhf 1.3.4.20200120-2 1.3.4.20200120-2
+2021-06-25 19:52:18 status half-configured mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:52:18 status unpacked mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:52:18 status half-installed mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:52:18 status unpacked mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:52:19 startup packages configure
+2021-06-25 19:52:19 configure mawk:armhf 1.3.4.20200120-2 <none>
+2021-06-25 19:52:19 status unpacked mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:52:19 status half-configured mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:52:19 status installed mawk:armhf 1.3.4.20200120-2
+2021-06-25 19:52:32 startup archives unpack
+2021-06-25 19:52:32 upgrade mount:armhf 2.36.1-7ubuntu2 2.36.1-7ubuntu2
+2021-06-25 19:52:32 status half-configured mount:armhf 2.36.1-7ubuntu2
+2021-06-25 19:52:32 status unpacked mount:armhf 2.36.1-7ubuntu2
+2021-06-25 19:52:32 status half-installed mount:armhf 2.36.1-7ubuntu2
+2021-06-25 19:52:32 status unpacked mount:armhf 2.36.1-7ubuntu2
+2021-06-25 19:52:33 startup packages configure
+2021-06-25 19:52:33 configure mount:armhf 2.36.1-7ubuntu2 <none>
+2021-06-25 19:52:33 status unpacked mount:armhf 2.36.1-7ubuntu2
+2021-06-25 19:52:33 status half-configured mount:armhf 2.36.1-7ubuntu2
+2021-06-25 19:52:33 status installed mount:armhf 2.36.1-7ubuntu2
+2021-06-25 19:52:46 startup archives unpack
+2021-06-25 19:52:46 upgrade ncurses-base:all 6.2+20201114-2build1 6.2+20201114-2build1
+2021-06-25 19:52:46 status half-configured ncurses-base:all 6.2+20201114-2build1
+2021-06-25 19:52:46 status unpacked ncurses-base:all 6.2+20201114-2build1
+2021-06-25 19:52:46 status half-installed ncurses-base:all 6.2+20201114-2build1
+2021-06-25 19:52:46 status unpacked ncurses-base:all 6.2+20201114-2build1
+2021-06-25 19:52:47 startup packages configure
+2021-06-25 19:52:47 configure ncurses-base:all 6.2+20201114-2build1 <none>
+2021-06-25 19:52:47 status unpacked ncurses-base:all 6.2+20201114-2build1
+2021-06-25 19:52:47 status half-configured ncurses-base:all 6.2+20201114-2build1
+2021-06-25 19:52:47 status installed ncurses-base:all 6.2+20201114-2build1
+2021-06-25 19:52:48 startup packages configure
+2021-06-25 19:53:01 startup archives unpack
+2021-06-25 19:53:01 upgrade ncurses-bin:armhf 6.2+20201114-2build1 6.2+20201114-2build1
+2021-06-25 19:53:01 status half-configured ncurses-bin:armhf 6.2+20201114-2build1
+2021-06-25 19:53:01 status unpacked ncurses-bin:armhf 6.2+20201114-2build1
+2021-06-25 19:53:01 status half-installed ncurses-bin:armhf 6.2+20201114-2build1
+2021-06-25 19:53:01 status unpacked ncurses-bin:armhf 6.2+20201114-2build1
+2021-06-25 19:53:02 startup packages configure
+2021-06-25 19:53:02 configure ncurses-bin:armhf 6.2+20201114-2build1 <none>
+2021-06-25 19:53:02 status unpacked ncurses-bin:armhf 6.2+20201114-2build1
+2021-06-25 19:53:02 status half-configured ncurses-bin:armhf 6.2+20201114-2build1
+2021-06-25 19:53:02 status installed ncurses-bin:armhf 6.2+20201114-2build1
+2021-06-25 19:53:04 startup packages configure
+2021-06-25 19:53:17 startup archives unpack
+2021-06-25 19:53:17 upgrade passwd:armhf 1:4.8.1-1ubuntu8 1:4.8.1-1ubuntu8
+2021-06-25 19:53:17 status half-configured passwd:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:53:17 status unpacked passwd:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:53:17 status half-installed passwd:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:53:17 status unpacked passwd:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:53:18 startup packages configure
+2021-06-25 19:53:18 configure passwd:armhf 1:4.8.1-1ubuntu8 <none>
+2021-06-25 19:53:18 status unpacked passwd:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:53:18 status half-configured passwd:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:53:18 status installed passwd:armhf 1:4.8.1-1ubuntu8
+2021-06-25 19:53:19 startup packages configure
+2021-06-25 19:53:32 startup archives unpack
+2021-06-25 19:53:32 upgrade perl-base:armhf 5.32.1-3ubuntu2 5.32.1-3ubuntu2
+2021-06-25 19:53:32 status half-configured perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:53:32 status unpacked perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:53:32 status half-installed perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:53:33 status unpacked perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:53:34 startup packages configure
+2021-06-25 19:53:34 configure perl-base:armhf 5.32.1-3ubuntu2 <none>
+2021-06-25 19:53:34 status unpacked perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:53:34 status half-configured perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:53:34 status installed perl-base:armhf 5.32.1-3ubuntu2
+2021-06-25 19:53:35 startup packages configure
+2021-06-25 19:53:48 startup archives unpack
+2021-06-25 19:53:48 upgrade procps:armhf 2:3.3.16-5ubuntu3 2:3.3.16-5ubuntu3
+2021-06-25 19:53:48 status half-configured procps:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:53:48 status unpacked procps:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:53:48 status half-installed procps:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:53:48 status unpacked procps:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:53:49 startup packages configure
+2021-06-25 19:53:49 configure procps:armhf 2:3.3.16-5ubuntu3 <none>
+2021-06-25 19:53:49 status unpacked procps:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:53:49 status half-configured procps:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:53:49 status installed procps:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:54:02 startup archives unpack
+2021-06-25 19:54:02 upgrade sed:armhf 4.7-1ubuntu1 4.7-1ubuntu1
+2021-06-25 19:54:02 status half-configured sed:armhf 4.7-1ubuntu1
+2021-06-25 19:54:02 status unpacked sed:armhf 4.7-1ubuntu1
+2021-06-25 19:54:02 status half-installed sed:armhf 4.7-1ubuntu1
+2021-06-25 19:54:02 status unpacked sed:armhf 4.7-1ubuntu1
+2021-06-25 19:54:04 startup packages configure
+2021-06-25 19:54:04 configure sed:armhf 4.7-1ubuntu1 <none>
+2021-06-25 19:54:04 status unpacked sed:armhf 4.7-1ubuntu1
+2021-06-25 19:54:04 status half-configured sed:armhf 4.7-1ubuntu1
+2021-06-25 19:54:04 status installed sed:armhf 4.7-1ubuntu1
+2021-06-25 19:54:05 startup packages configure
+2021-06-25 19:54:18 startup archives unpack
+2021-06-25 19:54:18 upgrade sensible-utils:all 0.0.14 0.0.14
+2021-06-25 19:54:18 status half-configured sensible-utils:all 0.0.14
+2021-06-25 19:54:18 status unpacked sensible-utils:all 0.0.14
+2021-06-25 19:54:18 status half-installed sensible-utils:all 0.0.14
+2021-06-25 19:54:18 status unpacked sensible-utils:all 0.0.14
+2021-06-25 19:54:19 startup packages configure
+2021-06-25 19:54:19 configure sensible-utils:all 0.0.14 <none>
+2021-06-25 19:54:19 status unpacked sensible-utils:all 0.0.14
+2021-06-25 19:54:19 status half-configured sensible-utils:all 0.0.14
+2021-06-25 19:54:19 status installed sensible-utils:all 0.0.14
+2021-06-25 19:54:32 startup archives unpack
+2021-06-25 19:54:32 upgrade sysvinit-utils:armhf 2.96-6ubuntu1 2.96-6ubuntu1
+2021-06-25 19:54:32 status half-configured sysvinit-utils:armhf 2.96-6ubuntu1
+2021-06-25 19:54:32 status unpacked sysvinit-utils:armhf 2.96-6ubuntu1
+2021-06-25 19:54:32 status half-installed sysvinit-utils:armhf 2.96-6ubuntu1
+2021-06-25 19:54:32 status unpacked sysvinit-utils:armhf 2.96-6ubuntu1
+2021-06-25 19:54:33 startup packages configure
+2021-06-25 19:54:33 configure sysvinit-utils:armhf 2.96-6ubuntu1 <none>
+2021-06-25 19:54:33 status unpacked sysvinit-utils:armhf 2.96-6ubuntu1
+2021-06-25 19:54:33 status half-configured sysvinit-utils:armhf 2.96-6ubuntu1
+2021-06-25 19:54:33 status installed sysvinit-utils:armhf 2.96-6ubuntu1
+2021-06-25 19:54:34 startup packages configure
+2021-06-25 19:54:47 startup archives unpack
+2021-06-25 19:54:47 upgrade tar:armhf 1.34+dfsg-1build1 1.34+dfsg-1build1
+2021-06-25 19:54:47 status half-configured tar:armhf 1.34+dfsg-1build1
+2021-06-25 19:54:47 status unpacked tar:armhf 1.34+dfsg-1build1
+2021-06-25 19:54:47 status half-installed tar:armhf 1.34+dfsg-1build1
+2021-06-25 19:54:47 status unpacked tar:armhf 1.34+dfsg-1build1
+2021-06-25 19:54:48 startup packages configure
+2021-06-25 19:54:48 configure tar:armhf 1.34+dfsg-1build1 <none>
+2021-06-25 19:54:48 status unpacked tar:armhf 1.34+dfsg-1build1
+2021-06-25 19:54:48 status half-configured tar:armhf 1.34+dfsg-1build1
+2021-06-25 19:54:48 status installed tar:armhf 1.34+dfsg-1build1
+2021-06-25 19:54:49 startup packages configure
+2021-06-25 19:55:02 startup archives unpack
+2021-06-25 19:55:02 upgrade ubuntu-keyring:all 2021.03.26 2021.03.26
+2021-06-25 19:55:02 status half-configured ubuntu-keyring:all 2021.03.26
+2021-06-25 19:55:02 status unpacked ubuntu-keyring:all 2021.03.26
+2021-06-25 19:55:02 status half-installed ubuntu-keyring:all 2021.03.26
+2021-06-25 19:55:02 status unpacked ubuntu-keyring:all 2021.03.26
+2021-06-25 19:55:04 startup packages configure
+2021-06-25 19:55:04 configure ubuntu-keyring:all 2021.03.26 <none>
+2021-06-25 19:55:04 status unpacked ubuntu-keyring:all 2021.03.26
+2021-06-25 19:55:04 status half-configured ubuntu-keyring:all 2021.03.26
+2021-06-25 19:55:04 status installed ubuntu-keyring:all 2021.03.26
+2021-06-25 19:55:05 startup packages configure
+2021-06-25 19:55:18 startup archives unpack
+2021-06-25 19:55:18 upgrade usrmerge:all 24ubuntu3 24ubuntu3
+2021-06-25 19:55:18 status half-configured usrmerge:all 24ubuntu3
+2021-06-25 19:55:18 status unpacked usrmerge:all 24ubuntu3
+2021-06-25 19:55:18 status half-installed usrmerge:all 24ubuntu3
+2021-06-25 19:55:18 status unpacked usrmerge:all 24ubuntu3
+2021-06-25 19:55:19 startup packages configure
+2021-06-25 19:55:19 configure usrmerge:all 24ubuntu3 <none>
+2021-06-25 19:55:19 status unpacked usrmerge:all 24ubuntu3
+2021-06-25 19:55:19 status half-configured usrmerge:all 24ubuntu3
+2021-06-25 19:55:19 status installed usrmerge:all 24ubuntu3
+2021-06-25 19:55:32 startup archives unpack
+2021-06-25 19:55:32 upgrade util-linux:armhf 2.36.1-7ubuntu2 2.36.1-7ubuntu2
+2021-06-25 19:55:32 status half-configured util-linux:armhf 2.36.1-7ubuntu2
+2021-06-25 19:55:32 status unpacked util-linux:armhf 2.36.1-7ubuntu2
+2021-06-25 19:55:32 status half-installed util-linux:armhf 2.36.1-7ubuntu2
+2021-06-25 19:55:32 status unpacked util-linux:armhf 2.36.1-7ubuntu2
+2021-06-25 19:55:33 startup packages configure
+2021-06-25 19:55:33 configure util-linux:armhf 2.36.1-7ubuntu2 <none>
+2021-06-25 19:55:33 status unpacked util-linux:armhf 2.36.1-7ubuntu2
+2021-06-25 19:55:33 status half-configured util-linux:armhf 2.36.1-7ubuntu2
+2021-06-25 19:55:34 status installed util-linux:armhf 2.36.1-7ubuntu2
+2021-06-25 19:55:35 startup packages configure
+2021-06-25 19:55:48 startup archives unpack
+2021-06-25 19:55:48 upgrade zlib1g:armhf 1:1.2.11.dfsg-2ubuntu6 1:1.2.11.dfsg-2ubuntu6
+2021-06-25 19:55:48 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:55:48 status half-configured zlib1g:armhf 1:1.2.11.dfsg-2ubuntu6
+2021-06-25 19:55:48 status unpacked zlib1g:armhf 1:1.2.11.dfsg-2ubuntu6
+2021-06-25 19:55:48 status half-installed zlib1g:armhf 1:1.2.11.dfsg-2ubuntu6
+2021-06-25 19:55:48 status unpacked zlib1g:armhf 1:1.2.11.dfsg-2ubuntu6
+2021-06-25 19:55:49 startup packages configure
+2021-06-25 19:55:49 configure zlib1g:armhf 1:1.2.11.dfsg-2ubuntu6 <none>
+2021-06-25 19:55:49 status unpacked zlib1g:armhf 1:1.2.11.dfsg-2ubuntu6
+2021-06-25 19:55:49 status half-configured zlib1g:armhf 1:1.2.11.dfsg-2ubuntu6
+2021-06-25 19:55:49 status installed zlib1g:armhf 1:1.2.11.dfsg-2ubuntu6
+2021-06-25 19:55:50 startup packages configure
+2021-06-25 19:55:50 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:55:50 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:55:50 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:56:01 startup archives unpack
+2021-06-25 19:56:01 upgrade libsystemd0:armhf 247.3-3ubuntu3 247.3-3ubuntu3.1
+2021-06-25 19:56:01 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:56:01 status half-configured libsystemd0:armhf 247.3-3ubuntu3
+2021-06-25 19:56:01 status unpacked libsystemd0:armhf 247.3-3ubuntu3
+2021-06-25 19:56:01 status half-installed libsystemd0:armhf 247.3-3ubuntu3
+2021-06-25 19:56:01 status unpacked libsystemd0:armhf 247.3-3ubuntu3.1
+2021-06-25 19:56:01 startup packages configure
+2021-06-25 19:56:01 configure libsystemd0:armhf 247.3-3ubuntu3.1 <none>
+2021-06-25 19:56:01 status unpacked libsystemd0:armhf 247.3-3ubuntu3.1
+2021-06-25 19:56:01 status half-configured libsystemd0:armhf 247.3-3ubuntu3.1
+2021-06-25 19:56:01 status installed libsystemd0:armhf 247.3-3ubuntu3.1
+2021-06-25 19:56:01 startup archives unpack
+2021-06-25 19:56:01 upgrade gcc-11-base:armhf 11-20210417-1ubuntu1 11.1.0-1ubuntu1~21.04
+2021-06-25 19:56:01 status half-configured gcc-11-base:armhf 11-20210417-1ubuntu1
+2021-06-25 19:56:01 status unpacked gcc-11-base:armhf 11-20210417-1ubuntu1
+2021-06-25 19:56:01 status half-installed gcc-11-base:armhf 11-20210417-1ubuntu1
+2021-06-25 19:56:01 status unpacked gcc-11-base:armhf 11.1.0-1ubuntu1~21.04
+2021-06-25 19:56:01 startup packages configure
+2021-06-25 19:56:01 configure gcc-11-base:armhf 11.1.0-1ubuntu1~21.04 <none>
+2021-06-25 19:56:01 status unpacked gcc-11-base:armhf 11.1.0-1ubuntu1~21.04
+2021-06-25 19:56:01 status half-configured gcc-11-base:armhf 11.1.0-1ubuntu1~21.04
+2021-06-25 19:56:01 status installed gcc-11-base:armhf 11.1.0-1ubuntu1~21.04
+2021-06-25 19:56:01 startup archives unpack
+2021-06-25 19:56:01 upgrade libstdc++6:armhf 11-20210417-1ubuntu1 11.1.0-1ubuntu1~21.04
+2021-06-25 19:56:01 status half-configured libstdc++6:armhf 11-20210417-1ubuntu1
+2021-06-25 19:56:01 status unpacked libstdc++6:armhf 11-20210417-1ubuntu1
+2021-06-25 19:56:01 status half-installed libstdc++6:armhf 11-20210417-1ubuntu1
+2021-06-25 19:56:02 status unpacked libstdc++6:armhf 11.1.0-1ubuntu1~21.04
+2021-06-25 19:56:02 startup packages configure
+2021-06-25 19:56:02 configure libstdc++6:armhf 11.1.0-1ubuntu1~21.04 <none>
+2021-06-25 19:56:02 status unpacked libstdc++6:armhf 11.1.0-1ubuntu1~21.04
+2021-06-25 19:56:02 status half-configured libstdc++6:armhf 11.1.0-1ubuntu1~21.04
+2021-06-25 19:56:02 status installed libstdc++6:armhf 11.1.0-1ubuntu1~21.04
+2021-06-25 19:56:02 startup archives unpack
+2021-06-25 19:56:02 upgrade libgcc-s1:armhf 11-20210417-1ubuntu1 11.1.0-1ubuntu1~21.04
+2021-06-25 19:56:02 status half-configured libgcc-s1:armhf 11-20210417-1ubuntu1
+2021-06-25 19:56:02 status unpacked libgcc-s1:armhf 11-20210417-1ubuntu1
+2021-06-25 19:56:02 status half-installed libgcc-s1:armhf 11-20210417-1ubuntu1
+2021-06-25 19:56:02 status unpacked libgcc-s1:armhf 11.1.0-1ubuntu1~21.04
+2021-06-25 19:56:02 startup packages configure
+2021-06-25 19:56:02 configure libgcc-s1:armhf 11.1.0-1ubuntu1~21.04 <none>
+2021-06-25 19:56:02 status unpacked libgcc-s1:armhf 11.1.0-1ubuntu1~21.04
+2021-06-25 19:56:02 status half-configured libgcc-s1:armhf 11.1.0-1ubuntu1~21.04
+2021-06-25 19:56:02 status installed libgcc-s1:armhf 11.1.0-1ubuntu1~21.04
+2021-06-25 19:56:02 startup archives unpack
+2021-06-25 19:56:02 upgrade liblz4-1:armhf 1.9.3-1build1 1.9.3-1ubuntu0.1
+2021-06-25 19:56:02 status half-configured liblz4-1:armhf 1.9.3-1build1
+2021-06-25 19:56:02 status unpacked liblz4-1:armhf 1.9.3-1build1
+2021-06-25 19:56:02 status half-installed liblz4-1:armhf 1.9.3-1build1
+2021-06-25 19:56:02 status unpacked liblz4-1:armhf 1.9.3-1ubuntu0.1
+2021-06-25 19:56:02 startup packages configure
+2021-06-25 19:56:02 configure liblz4-1:armhf 1.9.3-1ubuntu0.1 <none>
+2021-06-25 19:56:02 status unpacked liblz4-1:armhf 1.9.3-1ubuntu0.1
+2021-06-25 19:56:02 status half-configured liblz4-1:armhf 1.9.3-1ubuntu0.1
+2021-06-25 19:56:02 status installed liblz4-1:armhf 1.9.3-1ubuntu0.1
+2021-06-25 19:56:02 startup archives unpack
+2021-06-25 19:56:02 upgrade libpam-runtime:all 1.3.1-5ubuntu6 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:02 status half-configured libpam-runtime:all 1.3.1-5ubuntu6
+2021-06-25 19:56:02 status unpacked libpam-runtime:all 1.3.1-5ubuntu6
+2021-06-25 19:56:02 status half-installed libpam-runtime:all 1.3.1-5ubuntu6
+2021-06-25 19:56:02 status unpacked libpam-runtime:all 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:02 startup packages configure
+2021-06-25 19:56:02 configure libpam-runtime:all 1.3.1-5ubuntu6.21.04.1 <none>
+2021-06-25 19:56:02 status unpacked libpam-runtime:all 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:02 status half-configured libpam-runtime:all 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:02 status installed libpam-runtime:all 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:02 startup archives unpack
+2021-06-25 19:56:02 upgrade libpam0g:armhf 1.3.1-5ubuntu6 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:02 status half-configured libpam0g:armhf 1.3.1-5ubuntu6
+2021-06-25 19:56:02 status unpacked libpam0g:armhf 1.3.1-5ubuntu6
+2021-06-25 19:56:02 status half-installed libpam0g:armhf 1.3.1-5ubuntu6
+2021-06-25 19:56:02 status unpacked libpam0g:armhf 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:02 startup packages configure
+2021-06-25 19:56:02 configure libpam0g:armhf 1.3.1-5ubuntu6.21.04.1 <none>
+2021-06-25 19:56:02 status unpacked libpam0g:armhf 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:02 status half-configured libpam0g:armhf 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:03 status installed libpam0g:armhf 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:03 startup archives unpack
+2021-06-25 19:56:03 upgrade libudev1:armhf 247.3-3ubuntu3 247.3-3ubuntu3.1
+2021-06-25 19:56:03 status half-configured libudev1:armhf 247.3-3ubuntu3
+2021-06-25 19:56:03 status unpacked libudev1:armhf 247.3-3ubuntu3
+2021-06-25 19:56:03 status half-installed libudev1:armhf 247.3-3ubuntu3
+2021-06-25 19:56:03 status unpacked libudev1:armhf 247.3-3ubuntu3.1
+2021-06-25 19:56:03 startup packages configure
+2021-06-25 19:56:03 configure libudev1:armhf 247.3-3ubuntu3.1 <none>
+2021-06-25 19:56:03 status unpacked libudev1:armhf 247.3-3ubuntu3.1
+2021-06-25 19:56:03 status half-configured libudev1:armhf 247.3-3ubuntu3.1
+2021-06-25 19:56:03 status installed libudev1:armhf 247.3-3ubuntu3.1
+2021-06-25 19:56:03 startup archives unpack
+2021-06-25 19:56:03 upgrade libnettle8:armhf 3.7-2.1ubuntu1 3.7-2.1ubuntu1.1
+2021-06-25 19:56:03 status half-configured libnettle8:armhf 3.7-2.1ubuntu1
+2021-06-25 19:56:03 status unpacked libnettle8:armhf 3.7-2.1ubuntu1
+2021-06-25 19:56:03 status half-installed libnettle8:armhf 3.7-2.1ubuntu1
+2021-06-25 19:56:03 status unpacked libnettle8:armhf 3.7-2.1ubuntu1.1
+2021-06-25 19:56:03 startup packages configure
+2021-06-25 19:56:03 configure libnettle8:armhf 3.7-2.1ubuntu1.1 <none>
+2021-06-25 19:56:03 status unpacked libnettle8:armhf 3.7-2.1ubuntu1.1
+2021-06-25 19:56:03 status half-configured libnettle8:armhf 3.7-2.1ubuntu1.1
+2021-06-25 19:56:03 status installed libnettle8:armhf 3.7-2.1ubuntu1.1
+2021-06-25 19:56:03 startup archives unpack
+2021-06-25 19:56:03 upgrade libhogweed6:armhf 3.7-2.1ubuntu1 3.7-2.1ubuntu1.1
+2021-06-25 19:56:03 status half-configured libhogweed6:armhf 3.7-2.1ubuntu1
+2021-06-25 19:56:03 status unpacked libhogweed6:armhf 3.7-2.1ubuntu1
+2021-06-25 19:56:03 status half-installed libhogweed6:armhf 3.7-2.1ubuntu1
+2021-06-25 19:56:03 status unpacked libhogweed6:armhf 3.7-2.1ubuntu1.1
+2021-06-25 19:56:03 startup packages configure
+2021-06-25 19:56:03 configure libhogweed6:armhf 3.7-2.1ubuntu1.1 <none>
+2021-06-25 19:56:03 status unpacked libhogweed6:armhf 3.7-2.1ubuntu1.1
+2021-06-25 19:56:03 status half-configured libhogweed6:armhf 3.7-2.1ubuntu1.1
+2021-06-25 19:56:03 status installed libhogweed6:armhf 3.7-2.1ubuntu1.1
+2021-06-25 19:56:03 startup archives unpack
+2021-06-25 19:56:03 upgrade libprocps8:armhf 2:3.3.16-5ubuntu3 2:3.3.16-5ubuntu3.1
+2021-06-25 19:56:03 status half-configured libprocps8:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:56:03 status unpacked libprocps8:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:56:03 status half-installed libprocps8:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:56:03 status unpacked libprocps8:armhf 2:3.3.16-5ubuntu3.1
+2021-06-25 19:56:03 upgrade procps:armhf 2:3.3.16-5ubuntu3 2:3.3.16-5ubuntu3.1
+2021-06-25 19:56:03 status half-configured procps:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:56:03 status unpacked procps:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:56:03 status half-installed procps:armhf 2:3.3.16-5ubuntu3
+2021-06-25 19:56:03 status unpacked procps:armhf 2:3.3.16-5ubuntu3.1
+2021-06-25 19:56:03 startup packages configure
+2021-06-25 19:56:03 configure libprocps8:armhf 2:3.3.16-5ubuntu3.1 <none>
+2021-06-25 19:56:03 status unpacked libprocps8:armhf 2:3.3.16-5ubuntu3.1
+2021-06-25 19:56:03 status half-configured libprocps8:armhf 2:3.3.16-5ubuntu3.1
+2021-06-25 19:56:03 status installed libprocps8:armhf 2:3.3.16-5ubuntu3.1
+2021-06-25 19:56:03 configure procps:armhf 2:3.3.16-5ubuntu3.1 <none>
+2021-06-25 19:56:03 status unpacked procps:armhf 2:3.3.16-5ubuntu3.1
+2021-06-25 19:56:03 status half-configured procps:armhf 2:3.3.16-5ubuntu3.1
+2021-06-25 19:56:03 status installed procps:armhf 2:3.3.16-5ubuntu3.1
+2021-06-25 19:56:03 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:56:03 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:56:03 status installed libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:56:04 startup archives unpack
+2021-06-25 19:56:04 install libkrb5support0:armhf <none> 1.18.3-4
+2021-06-25 19:56:04 status triggers-pending libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:56:04 status half-installed libkrb5support0:armhf 1.18.3-4
+2021-06-25 19:56:04 status unpacked libkrb5support0:armhf 1.18.3-4
+2021-06-25 19:56:04 startup packages configure
+2021-06-25 19:56:04 configure libkrb5support0:armhf 1.18.3-4 <none>
+2021-06-25 19:56:04 status unpacked libkrb5support0:armhf 1.18.3-4
+2021-06-25 19:56:04 status half-configured libkrb5support0:armhf 1.18.3-4
+2021-06-25 19:56:04 status installed libkrb5support0:armhf 1.18.3-4
+2021-06-25 19:56:04 startup archives unpack
+2021-06-25 19:56:04 install libk5crypto3:armhf <none> 1.18.3-4
+2021-06-25 19:56:04 status half-installed libk5crypto3:armhf 1.18.3-4
+2021-06-25 19:56:04 status unpacked libk5crypto3:armhf 1.18.3-4
+2021-06-25 19:56:04 startup packages configure
+2021-06-25 19:56:04 configure libk5crypto3:armhf 1.18.3-4 <none>
+2021-06-25 19:56:04 status unpacked libk5crypto3:armhf 1.18.3-4
+2021-06-25 19:56:04 status half-configured libk5crypto3:armhf 1.18.3-4
+2021-06-25 19:56:04 status installed libk5crypto3:armhf 1.18.3-4
+2021-06-25 19:56:04 startup archives unpack
+2021-06-25 19:56:04 install libkeyutils1:armhf <none> 1.6.1-2ubuntu1
+2021-06-25 19:56:04 status half-installed libkeyutils1:armhf 1.6.1-2ubuntu1
+2021-06-25 19:56:04 status unpacked libkeyutils1:armhf 1.6.1-2ubuntu1
+2021-06-25 19:56:04 startup packages configure
+2021-06-25 19:56:04 configure libkeyutils1:armhf 1.6.1-2ubuntu1 <none>
+2021-06-25 19:56:04 status unpacked libkeyutils1:armhf 1.6.1-2ubuntu1
+2021-06-25 19:56:04 status half-configured libkeyutils1:armhf 1.6.1-2ubuntu1
+2021-06-25 19:56:04 status installed libkeyutils1:armhf 1.6.1-2ubuntu1
+2021-06-25 19:56:04 startup archives unpack
+2021-06-25 19:56:04 install libssl1.1:armhf <none> 1.1.1j-1ubuntu3
+2021-06-25 19:56:04 status half-installed libssl1.1:armhf 1.1.1j-1ubuntu3
+2021-06-25 19:56:04 status unpacked libssl1.1:armhf 1.1.1j-1ubuntu3
+2021-06-25 19:56:04 startup packages configure
+2021-06-25 19:56:05 configure libssl1.1:armhf 1.1.1j-1ubuntu3 <none>
+2021-06-25 19:56:05 status unpacked libssl1.1:armhf 1.1.1j-1ubuntu3
+2021-06-25 19:56:05 status half-configured libssl1.1:armhf 1.1.1j-1ubuntu3
+2021-06-25 19:56:05 status installed libssl1.1:armhf 1.1.1j-1ubuntu3
+2021-06-25 19:56:05 startup archives unpack
+2021-06-25 19:56:05 install libkrb5-3:armhf <none> 1.18.3-4
+2021-06-25 19:56:05 status half-installed libkrb5-3:armhf 1.18.3-4
+2021-06-25 19:56:05 status unpacked libkrb5-3:armhf 1.18.3-4
+2021-06-25 19:56:05 startup packages configure
+2021-06-25 19:56:05 configure libkrb5-3:armhf 1.18.3-4 <none>
+2021-06-25 19:56:05 status unpacked libkrb5-3:armhf 1.18.3-4
+2021-06-25 19:56:05 status half-configured libkrb5-3:armhf 1.18.3-4
+2021-06-25 19:56:05 status installed libkrb5-3:armhf 1.18.3-4
+2021-06-25 19:56:05 startup archives unpack
+2021-06-25 19:56:05 install libgssapi-krb5-2:armhf <none> 1.18.3-4
+2021-06-25 19:56:05 status half-installed libgssapi-krb5-2:armhf 1.18.3-4
+2021-06-25 19:56:05 status unpacked libgssapi-krb5-2:armhf 1.18.3-4
+2021-06-25 19:56:05 startup packages configure
+2021-06-25 19:56:05 configure libgssapi-krb5-2:armhf 1.18.3-4 <none>
+2021-06-25 19:56:05 status unpacked libgssapi-krb5-2:armhf 1.18.3-4
+2021-06-25 19:56:05 status half-configured libgssapi-krb5-2:armhf 1.18.3-4
+2021-06-25 19:56:05 status installed libgssapi-krb5-2:armhf 1.18.3-4
+2021-06-25 19:56:05 startup archives unpack
+2021-06-25 19:56:05 install libtirpc-common:all <none> 1.3.1-1build1
+2021-06-25 19:56:05 status half-installed libtirpc-common:all 1.3.1-1build1
+2021-06-25 19:56:05 status unpacked libtirpc-common:all 1.3.1-1build1
+2021-06-25 19:56:05 startup packages configure
+2021-06-25 19:56:05 configure libtirpc-common:all 1.3.1-1build1 <none>
+2021-06-25 19:56:05 status unpacked libtirpc-common:all 1.3.1-1build1
+2021-06-25 19:56:05 status half-configured libtirpc-common:all 1.3.1-1build1
+2021-06-25 19:56:05 status installed libtirpc-common:all 1.3.1-1build1
+2021-06-25 19:56:05 startup archives unpack
+2021-06-25 19:56:05 install libtirpc3:armhf <none> 1.3.1-1build1
+2021-06-25 19:56:05 status half-installed libtirpc3:armhf 1.3.1-1build1
+2021-06-25 19:56:05 status unpacked libtirpc3:armhf 1.3.1-1build1
+2021-06-25 19:56:05 startup packages configure
+2021-06-25 19:56:05 configure libtirpc3:armhf 1.3.1-1build1 <none>
+2021-06-25 19:56:05 status unpacked libtirpc3:armhf 1.3.1-1build1
+2021-06-25 19:56:05 status half-configured libtirpc3:armhf 1.3.1-1build1
+2021-06-25 19:56:05 status installed libtirpc3:armhf 1.3.1-1build1
+2021-06-25 19:56:05 startup archives unpack
+2021-06-25 19:56:05 install libnsl2:armhf <none> 1.3.0-0ubuntu3
+2021-06-25 19:56:05 status half-installed libnsl2:armhf 1.3.0-0ubuntu3
+2021-06-25 19:56:05 status unpacked libnsl2:armhf 1.3.0-0ubuntu3
+2021-06-25 19:56:05 startup packages configure
+2021-06-25 19:56:05 configure libnsl2:armhf 1.3.0-0ubuntu3 <none>
+2021-06-25 19:56:05 status unpacked libnsl2:armhf 1.3.0-0ubuntu3
+2021-06-25 19:56:05 status half-configured libnsl2:armhf 1.3.0-0ubuntu3
+2021-06-25 19:56:05 status installed libnsl2:armhf 1.3.0-0ubuntu3
+2021-06-25 19:56:05 startup archives unpack
+2021-06-25 19:56:05 upgrade libpam-modules-bin:armhf 1.3.1-5ubuntu6 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:05 status half-configured libpam-modules-bin:armhf 1.3.1-5ubuntu6
+2021-06-25 19:56:05 status unpacked libpam-modules-bin:armhf 1.3.1-5ubuntu6
+2021-06-25 19:56:05 status half-installed libpam-modules-bin:armhf 1.3.1-5ubuntu6
+2021-06-25 19:56:05 status unpacked libpam-modules-bin:armhf 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:05 startup packages configure
+2021-06-25 19:56:05 configure libpam-modules-bin:armhf 1.3.1-5ubuntu6.21.04.1 <none>
+2021-06-25 19:56:05 status unpacked libpam-modules-bin:armhf 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:05 status half-configured libpam-modules-bin:armhf 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:05 status installed libpam-modules-bin:armhf 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:05 startup archives unpack
+2021-06-25 19:56:05 upgrade libpam-modules:armhf 1.3.1-5ubuntu6 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:05 status half-configured libpam-modules:armhf 1.3.1-5ubuntu6
+2021-06-25 19:56:05 status unpacked libpam-modules:armhf 1.3.1-5ubuntu6
+2021-06-25 19:56:05 status half-installed libpam-modules:armhf 1.3.1-5ubuntu6
+2021-06-25 19:56:06 status unpacked libpam-modules:armhf 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:06 startup packages configure
+2021-06-25 19:56:06 configure libpam-modules:armhf 1.3.1-5ubuntu6.21.04.1 <none>
+2021-06-25 19:56:06 status unpacked libpam-modules:armhf 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:06 status half-configured libpam-modules:armhf 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:06 status installed libpam-modules:armhf 1.3.1-5ubuntu6.21.04.1
+2021-06-25 19:56:06 startup archives unpack
+2021-06-25 19:56:06 install krb5-locales:all <none> 1.18.3-4
+2021-06-25 19:56:06 status half-installed krb5-locales:all 1.18.3-4
+2021-06-25 19:56:06 status unpacked krb5-locales:all 1.18.3-4
+2021-06-25 19:56:06 startup packages configure
+2021-06-25 19:56:06 configure krb5-locales:all 1.18.3-4 <none>
+2021-06-25 19:56:06 status unpacked krb5-locales:all 1.18.3-4
+2021-06-25 19:56:06 status half-configured krb5-locales:all 1.18.3-4
+2021-06-25 19:56:06 status installed krb5-locales:all 1.18.3-4
+2021-06-25 19:56:06 trigproc libc-bin:armhf 2.33-0ubuntu5 <none>
+2021-06-25 19:56:06 status half-configured libc-bin:armhf 2.33-0ubuntu5
+2021-06-25 19:56:06 status installed libc-bin:armhf 2.33-0ubuntu5

@@ -30,7 +30,8 @@ set -e -u
 PROGRAM_NAME="proot-distro"
 
 # Where distribution plug-ins are stored.
-DISTRO_PLUGINS_DIR="@TERMUX_PREFIX@/etc/proot-distro"
+# Note by MilkyDeveloper: this is not good for prod, just use this for easier development
+DISTRO_PLUGINS_DIR="distro-plugins"
 
 # Base directory where script keeps runtime data.
 RUNTIME_DIR="@TERMUX_PREFIX@/var/lib/proot-distro"
@@ -263,7 +264,7 @@ command_install() {
 
 		local download_url
 		if declare -f -F get_download_url >/dev/null 2>&1; then
-			download_url=$(get_download_url | cut -d'|' -f2-)
+			download_url=$(get_download_url | cut -d'|' -f1-)
 		else
 			msg
 			msg "${BRED}Error: get_download_url() is not defined in ${distro_plugin_script}${RST}"
