@@ -1,8 +1,8 @@
 ##
-## Plug-in for installing Ubuntu Hirsute.
+## Plug-in for installing Ubuntu Groovy.
 ##
 
-DISTRO_NAME="Ubuntu 21.04"
+DISTRO_NAME="Ubuntu 20.10"
 
 # You can override a CPU architecture to let distribution
 # be executed by QEMU (user-mode).
@@ -25,17 +25,17 @@ get_download_url() {
 
 	case "$DISTRO_ARCH" in
 		aarch64)
-			rootfs="https://partner-images.canonical.com/core/hirsute/current/ubuntu-hirsute-core-cloudimg-arm64-root.tar.gz"
+			rootfs="https://partner-images.canonical.com/core/groovy/current/ubuntu-groovy-core-cloudimg-arm64-root.tar.gz"
 			;;
 		armv7l|armv8l)
-			rootfs="https://partner-images.canonical.com/core/hirsute/current/ubuntu-hirsute-core-cloudimg-armhf-root.tar.gz"
+			rootfs="https://partner-images.canonical.com/core/groovy/current/ubuntu-groovy-core-cloudimg-armhf-root.tar.gz"
 			;;
 		i686)
-			# Ubuntu Focal does not provide tarballs for x86 32bit.
+			# Ubuntu Groovy does not provide tarballs for x86 32bit.
 			return
 			;;
 		x86_64)
-			rootfs="https://partner-images.canonical.com/core/hirsute/current/ubuntu-hirsute-core-cloudimg-amd64-root.tar.gz"
+			rootfs="https://partner-images.canonical.com/core/groovy/current/ubuntu-groovy-core-cloudimg-amd64-root.tar.gz"
 			;;
 	esac
 

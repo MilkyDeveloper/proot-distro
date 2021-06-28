@@ -34,7 +34,7 @@ PROGRAM_NAME="proot-distro"
 DISTRO_PLUGINS_DIR="distro-plugins"
 
 # Base directory where script keeps runtime data.
-RUNTIME_DIR="@TERMUX_PREFIX@/var/lib/proot-distro"
+RUNTIME_DIR="${PREFIX}/var/lib/proot-distro"
 
 # Where rootfs tarballs are downloaded.
 DOWNLOAD_CACHE_DIR="${RUNTIME_DIR}/dlcache"
@@ -431,8 +431,8 @@ run_proot_cmd() {
 	if [ "$(uname -m)" != "$DISTRO_ARCH" ]; then
 		case "$DISTRO_ARCH" in
 			aarch64)
-				qemu_arg="-q @TERMUX_PREFIX@/bin/qemu-aarch64"
-				if [ ! -e "@TERMUX_PREFIX@/bin/qemu-aarch64" ]; then
+				qemu_arg="-q ${PREFIX}/bin/qemu-aarch64"
+				if [ ! -e "${PREFIX}/bin/qemu-aarch64" ]; then
 					msg
 					msg "${BRED}Error: package 'qemu-user-aarch64' is not installed.${RST}"
 					msg
@@ -440,8 +440,8 @@ run_proot_cmd() {
 				fi
 				;;
 			armv7l|armv8l)
-				qemu_arg="-q @TERMUX_PREFIX@/bin/qemu-arm"
-				if [ ! -e "@TERMUX_PREFIX@/bin/qemu-arm" ]; then
+				qemu_arg="-q ${PREFIX}/bin/qemu-arm"
+				if [ ! -e "${PREFIX}/bin/qemu-arm" ]; then
 					msg
 					msg "${BRED}Error: package 'qemu-user-arm' is not installed.${RST}"
 					msg
@@ -449,8 +449,8 @@ run_proot_cmd() {
 				fi
 				;;
 			i686)
-				qemu_arg="-q @TERMUX_PREFIX@/bin/qemu-i386"
-				if [ ! -e "@TERMUX_PREFIX@/bin/qemu-i386" ]; then
+				qemu_arg="-q ${PREFIX}/bin/qemu-i386"
+				if [ ! -e "${PREFIX}/bin/qemu-i386" ]; then
 					msg
 					msg "${BRED}Error: package 'qemu-user-i386' is not installed.${RST}"
 					msg
@@ -458,8 +458,8 @@ run_proot_cmd() {
 				fi
 				;;
 			x86_64)
-				qemu_arg="-q @TERMUX_PREFIX@/bin/qemu-x86_64"
-				if [ ! -e "@TERMUX_PREFIX@/bin/qemu-x86_64" ]; then
+				qemu_arg="-q ${PREFIX}/bin/qemu-x86_64"
+				if [ ! -e "${PREFIX}/bin/qemu-x86_64" ]; then
 					msg
 					msg "${BRED}Error: package 'qemu-user-x86_64' is not installed.${RST}"
 					msg
@@ -1032,8 +1032,8 @@ command_login() {
 			need_qemu=true
 			case "$target_arch" in
 				aarch64)
-					set -- "-q" "@TERMUX_PREFIX@/bin/qemu-aarch64" "$@"
-					if [ ! -e "@TERMUX_PREFIX@/bin/qemu-aarch64" ]; then
+					set -- "-q" "${PREFIX}/bin/qemu-aarch64" "$@"
+					if [ ! -e "${PREFIX}/bin/qemu-aarch64" ]; then
 						msg
 						msg "${BRED}Error: package 'qemu-user-aarch64' is not installed.${RST}"
 						msg
@@ -1041,8 +1041,8 @@ command_login() {
 					fi
 					;;
 				armv7l|armv8l)
-					set -- "-q" "@TERMUX_PREFIX@/bin/qemu-arm" "$@"
-					if [ ! -e "@TERMUX_PREFIX@/bin/qemu-arm" ]; then
+					set -- "-q" "${PREFIX}/bin/qemu-arm" "$@"
+					if [ ! -e "${PREFIX}/bin/qemu-arm" ]; then
 						msg
 						msg "${BRED}Error: package 'qemu-user-arm' is not installed.${RST}"
 						msg
@@ -1050,8 +1050,8 @@ command_login() {
 					fi
 					;;
 				i686)
-					set -- "-q" "@TERMUX_PREFIX@/bin/qemu-i386" "$@"
-					if [ ! -e "@TERMUX_PREFIX@/bin/qemu-i386" ]; then
+					set -- "-q" "${PREFIX}/bin/qemu-i386" "$@"
+					if [ ! -e "${PREFIX}/bin/qemu-i386" ]; then
 						msg
 						msg "${BRED}Error: package 'qemu-user-i386' is not installed.${RST}"
 						msg
@@ -1059,8 +1059,8 @@ command_login() {
 					fi
 					;;
 				x86_64)
-					set -- "-q" "@TERMUX_PREFIX@/bin/qemu-x86_64" "$@"
-					if [ ! -e "@TERMUX_PREFIX@/bin/qemu-x86_64" ]; then
+					set -- "-q" "${PREFIX}/bin/qemu-x86_64" "$@"
+					if [ ! -e "${PREFIX}/bin/qemu-x86_64" ]; then
 						msg
 						msg "${BRED}Error: package 'qemu-user-x86_64' is not installed.${RST}"
 						msg
@@ -1186,7 +1186,7 @@ command_login() {
 		# Bind the tmp folder from the host system to the guest system
 		# Ignores --isolated.
 		if $make_host_tmp_shared; then
-			set -- "--bind=@TERMUX_PREFIX@/tmp:/tmp" "$@"
+			set -- "--bind=${PREFIX}/tmp:/tmp" "$@"
 		fi
 
 		# Bind custom file systems.
