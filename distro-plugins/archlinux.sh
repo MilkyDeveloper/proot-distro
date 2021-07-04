@@ -34,10 +34,10 @@ get_download_url() {
 
 	case "$DISTRO_ARCH" in
 		aarch64)
-			rootfs="http://os.archlinuxarm.org/os/ArchLinuxARM-aarch64-latest.tar.gz"
+			rootfs="http://il.us.mirror.archlinuxarm.org/os/ArchLinuxARM-aarch64-latest.tar.gz"
 			;;
 		armv7l|armv8l)
-			rootfs="http://os.archlinuxarm.org/os/ArchLinuxARM-armv7-latest.tar.gz"
+			rootfs="http://il.us.mirror.archlinuxarm.org/os/ArchLinuxARM-armv7-latest.tar.gz"
 			;;
 		x86_64)
 			rootfs="https://github.com/termux/proot-distro/releases/download/v1.2-arch-rootfs/archlinux-bootstrap-2020.12.01-x86_64.tar.gz"
