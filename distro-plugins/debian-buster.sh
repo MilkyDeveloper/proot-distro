@@ -25,28 +25,23 @@ DISTRO_TARBALL_STRIP_OPT=1
 # SHA-256|FILE-NAME
 get_download_url() {
 	local deb_arch
-	local sha256
 
 	case "$DISTRO_ARCH" in
 		aarch64)
 			deb_arch="arm64"
-			sha256="c9e87d21eea22d5eec3681508b84cf1f48dfeb2e7178c65c5bd755d56600936a"
 			;;
 		armv7l|armv8l)
 			deb_arch="armhf"
-			sha256="35f29b0568b1c1d7d9d1263245834d2dce8c5fa5b78b64c72a79349585b06690"
 			;;
 		i686)
 			deb_arch="i386"
-			sha256="c74b2b9771ba5ad693a2d8ee5600b0373ffad3f6a548f71bbb9516cd7b1d2e43"
 			;;
 		x86_64)
 			deb_arch="amd64"
-			sha256="968e753aafc2b94fd4f94729b3453d7515cf4ab647a6db38ed0b80af0e9c5720"
 			;;
 	esac
 
-	echo "${sha256}|https://github.com/termux/proot-distro/releases/download/v1.4.0-debian-rootfs/debian-buster-${deb_arch}-2021.01.10.tar.gz"
+	echo "https://github.com/termux/proot-distro/releases/download/v1.4.0-debian-rootfs/debian-buster-${deb_arch}-2021.01.10.tar.gz"
 }
 
 # Define here additional steps which should be executed

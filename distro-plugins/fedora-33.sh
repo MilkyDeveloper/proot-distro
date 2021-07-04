@@ -30,19 +30,16 @@ get_download_url() {
 	case "$DISTRO_ARCH" in
 		aarch64)
 			dist_arch="arm64"
-			sha256="4c113d35b8793d43756ca0f77bf46c41853daafe04d7514b2217079e0c2aa2c5"
 			;;
 		armv7l|armv8l)
 			dist_arch="armhf"
-			sha256="47c911447e5912f133d26b6e8464007cdd169ca1c9a8b70ff1d4188c7be74e70"
 			;;
 		x86_64)
 			dist_arch="amd64"
-			sha256="4002904ef27aafbe63294dc12c1b96a42bb3ff1a8596e0c61ec28f6be3b10a53"
 			;;
 	esac
 
-	echo "${sha256}|https://github.com/termux/proot-distro/releases/download/v1.4.0-fedora-rootfs/fedora-33-${dist_arch}-2021.01.10.tar.gz"
+	echo "https://github.com/termux/proot-distro/releases/download/v1.4.0-fedora-rootfs/fedora-33-${dist_arch}-2021.01.10.tar.gz"
 }
 
 # Define here additional steps which should be executed

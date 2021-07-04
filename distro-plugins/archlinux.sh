@@ -31,24 +31,20 @@ fi
 # SHA-256|FILE-NAME
 get_download_url() {
 	local rootfs
-	local sha256
 
 	case "$DISTRO_ARCH" in
 		aarch64)
 			rootfs="https://github.com/termux/proot-distro/releases/download/v1.2-arch-rootfs/ArchLinuxARM-aarch64-2020.12.10.tar.gz"
-			sha256="e1ae234a381097674d7d2445c79b13c43e0c39a61a6c6839a3b984d2e9bb0804"
 			;;
 		armv7l|armv8l)
 			rootfs="https://github.com/termux/proot-distro/releases/download/v1.2-arch-rootfs/ArchLinuxARM-armv7-2020.12.10.tar.gz"
-			sha256="1e5923b8065f98df77189fdf4e9a07d6b9e15d86563bf9cd1716dced9cdb2aab"
 			;;
 		x86_64)
 			rootfs="https://github.com/termux/proot-distro/releases/download/v1.2-arch-rootfs/archlinux-bootstrap-2020.12.01-x86_64.tar.gz"
-			sha256="c08fd2eca091b8b5fcf61ed39ccad7c1ddeae0a9b93e57c401bb60953a7337f1"
 			;;
 	esac
 
-	echo "${sha256}|${rootfs}"
+	echo "${rootfs}"
 }
 
 # Define here additional steps which should be executed
